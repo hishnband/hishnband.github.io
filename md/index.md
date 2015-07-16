@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hish N' Band - (maderfakin' hitra) domača stran
+title: Hish N' Band - (madrf***in' hitra) domača stran
 ---
 
 #Hish N' Band
@@ -17,6 +17,7 @@ Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https:/
 Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsako sredo v našem prijetno hladnem zaklonišču. Če veste kje smo, ste vljudno vabljeni vsako sredo ob 20.30.
 
 *Bivši špili*
+
 * 26/06/2015 - Šentvid pri Stični - Fly-in & EXPO 2015 ([fotke na FB](https://t.co/IoHGeedZzR))
 * 19/09/2014 - Ajdovščina - Bar Hiša mladih
 * 05/04/2014 - Vrhnika - Human Fish Brewery - Srečanje [Društva ljubiteljev domačega pivovarstva](https://dldp.wordpress.com/2014/04/17/porocilo-1-utrip-domace-pivovarske-scene/)

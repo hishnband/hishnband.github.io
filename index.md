@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 #Hish N' Band
 
 ##Bend prej znan kot [#wwwhbend](http://wwwhbend.tumblr.com/) 

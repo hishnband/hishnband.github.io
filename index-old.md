@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Hish N' Band - (maderfakin' hitra) domača stran
+css: style.css
 ---
 
 #Hish N' Band

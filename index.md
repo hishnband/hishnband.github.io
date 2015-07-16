@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Hish N' Band - (maderfakin' hitra) domača stran
----
 
 <header>
 	<title>Hish N' Band - (maderfakin' hitra) domača stran</title>
 </header>
 
-#Hish N' Band
+---
+
+#Hish N' Band (#wtf)
 
 ##Bend prej znan kot [#wwwhbend](http://wwwhbend.tumblr.com/) 
 

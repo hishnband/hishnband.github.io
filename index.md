@@ -2,7 +2,9 @@
 
 ##Bend prej znan kot [#wwwhbend](http://wwwhbend.tumblr.com/) 
 
-Po novem poje in strune trga [@davorinpavlica](https://twitter.com/davorinpavlica), basira [@loudk](https://twitter.com/loudk), po bobnih pa udriha [@loudandwicked](https://twitter.com/loudandwicked). Po vseh teh letih smo še vedno ful špon.
+Po novem poje in strune trga [@davorinpavlica](https://twitter.com/davorinpavlica), basira [@loudk](https://twitter.com/loudk), po bobnih pa udriha [@loudandwicked](https://twitter.com/loudandwicked). Oba skrbita za zmerno dozo bekvokalov.
+
+#####Po vseh teh letih smo še vedno ful špon.
 
 ###Družabna obrežja
 

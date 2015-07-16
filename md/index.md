@@ -33,7 +33,3 @@ Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsako sredo v 
 ### Biografija 
 
 Še pride ... kdo bi si mislil, da boš, dragi uporabnik, poskrolal tako daleč. Čestitke, si pri koncu naše strani.
-
-***
-
-© 2015 - Hish N' Band

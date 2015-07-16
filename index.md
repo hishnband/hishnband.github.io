@@ -1,8 +1,11 @@
 ---
 layout: default
 title: Hish N' Band - (maderfakin' hitra) domača stran
-description: Bend prej znan kot #wwwhbend. Po novem poje in strune trga @davorinpavlica, basira @loudk, po bobnih pa udriha @loudandwicked. Po vseh teh letih smo še vedno ful špon.
 ---
+
+<header>
+	<title>Hish N' Band - (maderfakin' hitra) domača stran</title>
+</header>
 
 #Hish N' Band
 

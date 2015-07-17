@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Šentvid pri Stični - Fly-in & EXPO 2015
+title: Ajdovščina - Bar Hiša mladih
 category: live
 tags: [hishnband, prvišpil]
 date: 2014-09-19 22:00:00

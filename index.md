@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Po novem poje in strune trga [@davorinpavlica](https://twitter.com/davorinpavlica), basira [@loudk](https://twitter.com/loudk), po bobnih pa udriha [@loudandwicked](https://twitter.com/loudandwicked). Še vedno čakamo na svoj prvi singl in na prvo plato. Ni nam lahko, a upamo, da nam kmalu bo.
+Po novem poje in strune trga [@davorinpavlica](https://twitter.com/davorinpavlica), basira [@loudk](https://twitter.com/loudk), po bobnih pa udriha [@loudandwicked](https://twitter.com/loudandwicked).
 
 ###Družabna obrežja
 
@@ -21,16 +21,6 @@ Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsako sredo v 
 * 17/05/2013 - Ljubljana - KUD France Prešeren - ŽVPL-ova #petnajstka
 * 03/12/2013 - Ljubljana - Popi's pub
 * 29/05/2013 - Kranj - Terasa Atelje Kranj ([video na YouTubetu](https://www.youtube.com/watch?v=pA2vpjAGfOQ))
-
-# ### Špili as posts
-# <ul>
-#   {% for post in site.posts %}
-#     <li>
-#       <a href="{{ post.url }}">{{ post.title }}</a>
-#       {{ post.excerpt }}
-#     </li>
-#   {% endfor %}
-# </ul>
 
 ### Citati
 

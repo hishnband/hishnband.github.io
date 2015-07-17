@@ -26,6 +26,16 @@ Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsako sredo v 
 * 03/12/2013 - Ljubljana - Popi's pub
 * 29/05/2013 - Kranj - Terasa Atelje Kranj ([video na YouTubetu](https://www.youtube.com/watch?v=pA2vpjAGfOQ))
 
+### Špili as posts
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
 ### Citati
 
 * "If it ain't ringing (in your ears), your not doin' it right."

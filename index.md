@@ -7,7 +7,7 @@ title: Home
 
 ##Bend prej znan kot [#wwwhbend](http://wwwhbend.tumblr.com/) 
 
-Po novem poje in strune trga [@davorinpavlica](https://twitter.com/davorinpavlica), basira [@loudk](https://twitter.com/loudk), po bobnih pa udriha [@loudandwicked](https://twitter.com/loudandwicked). Oba skrbita za zmerno dozo bekvokalov. Še vedno se trudimo biti vsaj drugi najslabši slovenski bend.
+Po novem poje in strune trga [@davorinpavlica](https://twitter.com/davorinpavlica), basira [@loudk](https://twitter.com/loudk), po bobnih pa udriha [@loudandwicked](https://twitter.com/loudandwicked). Oba skrbita za zmerno dozo bekvokalov.
 
 ###Družabna obrežja
 

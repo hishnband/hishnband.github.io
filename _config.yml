@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
-permalink: /:title 
+permalink: /:title/ 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
@@ -9,7 +9,7 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Hish N’ Band
-tagline: Bend prej znan kot #wwwhbend
+tagline: Bend prej znan kot wwwhbend
 author :
   name : Davorin Pavlica
   email : davorin.pavlica@zvpl.com

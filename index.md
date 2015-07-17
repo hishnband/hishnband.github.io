@@ -3,10 +3,6 @@ layout: default
 title: Home
 ---
 
-#Hish N' Band
-
-##Bend prej znan kot [#wwwhbend](http://wwwhbend.tumblr.com/) 
-
 Po novem poje in strune trga [@davorinpavlica](https://twitter.com/davorinpavlica), basira [@loudk](https://twitter.com/loudk), po bobnih pa udriha [@loudandwicked](https://twitter.com/loudandwicked). Še vedno čakamo na svoj prvi singl in na prvo plato.
 
 ###Družabna obrežja

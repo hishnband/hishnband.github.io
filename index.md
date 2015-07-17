@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Po novem poje in strune trga [@davorinpavlica](https://twitter.com/davorinpavlica), basira [@loudk](https://twitter.com/loudk), po bobnih pa udriha [@loudandwicked](https://twitter.com/loudandwicked). Še vedno čakamo na svoj prvi singl in na prvo plato.
+Po novem poje in strune trga [@davorinpavlica](https://twitter.com/davorinpavlica), basira [@loudk](https://twitter.com/loudk), po bobnih pa udriha [@loudandwicked](https://twitter.com/loudandwicked). Še vedno čakamo na svoj prvi singl in na prvo plato. Ni nam lahko, a upamo, da nam kmalu bo.
 
 ###Družabna obrežja
 

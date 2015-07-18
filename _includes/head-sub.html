@@ -2,7 +2,11 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width">
 	<meta name="author" content="@hishnband">
-	<meta name="description" content="Bend prej znan kot #wwwhbend. Po novem poje in strune trga @davorinpavlica, basira @loudk, po bobnih pa udriha @loudandwicked. Po vseh teh letih smo še vedno ful špon.">
+	{% if page.meta %}
+	 <meta name="description" content="{{ page.meta }}" />
+ 	{% else %}
+ 	<meta name="description" content="{{ site.description}}" />
+ 	{% endif %}
 	<meta property="og:url" content="http://hishnband.si">
 	<meta property="og:title" content="Hish N' Band - (maderfakin' hitra) domača stran">
 	<meta property="og:description" content="Bend prej znan kot #wwwhbend. Po novem poje in strune trga @davorinpavlica, basira @loudk, po bobnih pa udriha @loudandwicked. Po vseh teh letih smo še vedno ful špon.">

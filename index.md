@@ -10,7 +10,7 @@ Po novem poje in strune trga [@davorinpavlica](https://twitter.com/davorinpavlic
 Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https://instagram.com/hishnband/), jasno pa da smo tut [Fejstbukovi](https://www.facebook.com/hishnband). Aja, pa [Jutub kanal](https://www.youtube.com/channel/UCTIELIn2BgFNHFnyAlIdBiw) mamo tut. In seveda, nazadnje, a ne nazadnje, 'mamo svojo [madafakin'](http://motherfuckingwebsite.com/) spletno stran. :)
 
 ### Špili
-Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsako sredo v našem prijetno hladnem zaklonišču. Če veste, kje smo, ste vljudno vabljeni vsako sredo ob 20.30.
+Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsako sredo v našem prijetno hladnem Zaklonišču. Če veste, kje smo, ste vljudno vabljeni - vsako sredo ob 20.30.
 
 *Bivši špili*
 

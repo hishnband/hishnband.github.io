@@ -2,7 +2,7 @@
 	<meta name="viewport" content="width=device-width">
 	<meta name="author" content="@hishnband">
 	{% if page.meta %}<meta name="description" content="{{ page.meta }}" />{% else %}<meta name="description" content="{{ site.description }}" />{% endif %}
-	<meta property="og:url" content="{{ site.baseurl }}/{{ page.url }}/">
+	<meta property="og:url" content="{{ site.baseurl }}{{ post.url }}">
 	<meta property="og:title" content="{% if page.title == "Home" %}{{ site.title }} - {{ site.tagline }}{% else %}{{ site.title }} - {{ page.title }}{% endif %}">
 	{% if page.meta %}<meta property="og:description" content="{{ page.meta }}" />{% else %}<meta property="og:description" content="{{ site.description }}" />{% endif %}
 	<meta name="twitter:card" content="summary">

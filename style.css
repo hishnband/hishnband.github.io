@@ -1,11 +1,16 @@
 body {
+	font-family: 'PT Serif', serif;
 	background: #fff;
 	color: #000;
 	font-size: 1.1em;
-	line-height: 1.5em;
+	line-height: 1.6em;
 	max-width: 45em;
 	margin: auto; 
 	padding: 0 2%;
+}
+
+h1 {
+	line-height: 1.7em;
 }
 
 img {

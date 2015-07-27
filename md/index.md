@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hish N' Band - (madrf***in' hitra) domača stran
+title: Home
 ---
 
 #Hish N' Band

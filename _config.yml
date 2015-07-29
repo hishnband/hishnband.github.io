@@ -140,7 +140,6 @@ prose:
     - index.md
     - CNAME
     - ig.html
-    - style.css
 	- /md
     - /txt
     - _config.yml

@@ -11,30 +11,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "style.css",
-			"settings":
-			{
-				"buffer_size": 258,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/footer.html",
-			"settings":
-			{
-				"buffer_size": 374,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/head.html",
-			"settings":
-			{
-				"buffer_size": 516,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -70,33 +46,36 @@
 	[
 		"/Users/davorinpavlica/Documents/hishnband.github.io",
 		"/Users/davorinpavlica/Documents/hishnband.github.io/_includes",
+		"/Users/davorinpavlica/Documents/hishnband.github.io/_layouts",
+		"/Users/davorinpavlica/Documents/hishnband.github.io/_plugins",
 		"/Users/davorinpavlica/Documents/hishnband.github.io/md"
 	],
 	"file_history":
 	[
+		"/Users/davorinpavlica/Documents/hishnband.github.io/hnb.sublime-project",
+		"/Users/davorinpavlica/Documents/hishnband.github.io/md/index.md",
+		"/Users/davorinpavlica/Documents/hishnband.github.io/_includes/instagram.html",
+		"/Users/davorinpavlica/Documents/hishnband.github.io/style.css",
+		"/Users/davorinpavlica/Documents/hishnband.github.io/index.md",
 		"/Users/davorinpavlica/Documents/hishnband.github.io/_includes/footer.html",
+		"/Users/davorinpavlica/Documents/hishnband.github.io/_includes/head.html",
+		"/Users/davorinpavlica/Documents/hishnband.github.io/_config.yml",
+		"/Users/davorinpavlica/Dropbox/Documents/unpwd.txt",
+		"/Users/davorinpavlica/Documents/hishnband.github.io/index-old.md",
 		"/Users/davorinpavlica/Documents/hishnband.github.io/rss.html",
 		"/Users/davorinpavlica/Documents/hishnband.github.io/_plugins/RssFeedCollector.rb",
-		"/Users/davorinpavlica/Documents/hishnband.github.io/_config.yml",
 		"/Users/davorinpavlica/Documents/hishnband.github.io/rss/index.rb",
 		"/Users/davorinpavlica/Documents/hishnband.github.io/_plugins/instagram-jekyll/external-rss.rb",
 		"/Users/davorinpavlica/Dropbox/Documents/ure.txt",
-		"/Users/davorinpavlica/Dropbox/Documents/unpwd.txt",
-		"/Users/davorinpavlica/Documents/hishnband.github.io/_includes/instagram.html",
-		"/Users/davorinpavlica/Documents/hishnband.github.io/style.css",
 		"/Users/davorinpavlica/Documents/hishnband.github.io/_includes/head-sub.html",
 		"/Users/davorinpavlica/Documents/hishnband.github.io/_posts/2015-06-26-sticna.md",
 		"/Users/davorinpavlica/Documents/hishnband.github.io/_plugins/instagram-jekyll/instagram-jekyll.rb",
 		"/Users/davorinpavlica/Documents/hishnband.github.io/_layouts/post.html",
-		"/Users/davorinpavlica/Documents/hishnband.github.io/index.md",
 		"/Users/davorinpavlica/Documents/hishnband.github.io/_includes/meta.html",
 		"/Users/davorinpavlica/Documents/hishnband.github.io/txt/instagram-access-token.txt",
-		"/Users/davorinpavlica/Documents/hishnband.github.io/_includes/head.html",
 		"/Users/davorinpavlica/Documents/hishnband.github.io/_posts/2014-09-19-ajdovscina.md",
 		"/Users/davorinpavlica/Documents/hishnband.github.io/_layouts/default.html",
-		"/Users/davorinpavlica/Documents/hishnband.github.io/md/index.md",
 		"/usr/include/apache2/httpd.h",
-		"/Users/davorinpavlica/Documents/hishnband.github.io/index-old.md",
 		"/Users/davorinpavlica/Documents/hishnband.github.io/index.html",
 		"/Users/davorinpavlica/Dropbox/Documents/txt.txt",
 		"/Users/davorinpavlica/Dropbox/Documents/wp-settings.php",
@@ -119,7 +98,7 @@
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -133,6 +112,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"master",
 			"---",
 			"siel",
 			"ebay",
@@ -212,94 +192,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "style.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 258,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								191,
-								191
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_includes/footer.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 374,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								311,
-								311
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_includes/head.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 516,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								320,
-								320
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				}
 			]
 		}
 	],

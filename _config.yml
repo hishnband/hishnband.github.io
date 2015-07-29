@@ -132,4 +132,19 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-  
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://hishnband.si/'
+  ignore:
+    - index.md
+    - CNAME
+    - ig.html
+    - style.css
+	- /md
+    - /txt
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /_plugins
+    - /_site

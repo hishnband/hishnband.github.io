@@ -139,9 +139,6 @@ prose:
   ignore:
     - index.md
     - CNAME
-    - ig.html
-	- /md
-    - /txt
     - _config.yml
     - /_layouts
     - /_includes

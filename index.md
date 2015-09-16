@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Po novem poje [@davorinpavlica](https://twitter.com/davorinpavlica), ki še vedno trga strune. ~~Basira [@loudk](https://twitter.com/loudk)~~, po bobnih pa udriha [@loudandwicked](https://twitter.com/loudandwicked).
+Po novem poje [@davorinpavlica](https://twitter.com/davorinpavlica), ki še vedno trga strune. Basira [@loudk](https://twitter.com/loudk), po bobnih pa udriha [@loudandwicked](https://twitter.com/loudandwicked).
 
 ### Družabna obrežja
 

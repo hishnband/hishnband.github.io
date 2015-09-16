@@ -18,3 +18,24 @@ img {
 	display: block;
 	margin: .75em auto;
 }
+
+a, a:visited {
+	border-bottom: 1px solid rgba(13, 68, 164, 0.8);
+	text-decoration: none;
+	color: rgba(13, 68, 164, 1);
+-webkit-transition: color 0.3s ease-in-out;
+-moz-transition: color 0.3s ease-in-out;
+-ms-transition: color 0.3s ease-in-out;
+-o-transition: color 0.3s ease-in-out;
+transition: color 0.3s ease-in-out;}
+
+
+a:hover {
+	color: rgba(111, 13, 163, 0.8);
+}
+
+a:focus{outline:thin dotted}
+
+a:visited {
+	border-bottom: 1px dotted rgba(89, 6, 134, 0.8);
+}

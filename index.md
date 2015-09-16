@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Po novem poje [@davorinpavlica](https://twitter.com/davorinpavlica), ki še vedno trga strune. Basira [@loudk](https://twitter.com/loudk), po bobnih pa udriha [@loudandwicked](https://twitter.com/loudandwicked).
+Po novem poje [@davorinpavlica](https://twitter.com/davorinpavlica), ki še vedno trga strune. ~~Basira [@loudk](https://twitter.com/loudk)~~, po bobnih pa udriha [@loudandwicked](https://twitter.com/loudandwicked).
 
 ### Družabna obrežja
 
@@ -14,18 +14,18 @@ Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsako sredo v 
 
 *Bivši špili*
 
-* 26/06/2015 - Šentvid pri Stični - Fly-in & EXPO 2015 ([fotke na FB](https://t.co/IoHGeedZzR))
-* 19/09/2014 - Ajdovščina - Bar Hiša mladih
-* 05/04/2014 - Vrhnika - Human Fish Brewery - Srečanje [Društva ljubiteljev domačega pivovarstva](https://dldp.wordpress.com/2014/04/17/porocilo-1-utrip-domace-pivovarske-scene/)
-* 04/04/2014 - Ljubljana - Lepa žoga
-* 17/05/2013 - Ljubljana - KUD France Prešeren - ŽVPL-ova #petnajstka
-* 03/12/2013 - Ljubljana - Popi's pub
-* 29/05/2013 - Kranj - Terasa Atelje Kranj ([video na YouTubetu](https://www.youtube.com/watch?v=pA2vpjAGfOQ))
+* 26/06/2015 - **Šentvid pri Stični** - _Fly-in & EXPO 2015_ - ([fotke na FB](https://t.co/IoHGeedZzR))
+* 19/09/2014 - **Ajdovščina** - _Bar Hiša mladih_
+* 05/04/2014 - **Vrhnika** - _Human Fish Brewery_ - Srečanje [Društva ljubiteljev domačega pivovarstva](https://dldp.wordpress.com/2014/04/17/porocilo-1-utrip-domace-pivovarske-scene/)
+* 04/04/2014 - **Ljubljana** - _Lepa žoga_
+* 17/05/2013 - **Ljubljana** - _KUD France Prešeren_ - ŽVPL-ova #petnajstka
+* 03/12/2013 - **Ljubljana** - _Popi's pub_
+* 29/05/2013 - **Kranj** - _Terasa Atelje Kranj_ - ([video na YouTubetu](https://www.youtube.com/watch?v=pA2vpjAGfOQ))
 
 ### Citati
 
-* "If it ain't ringing (in your ears), your not doin' it right."
-  * Sam Sandberg o zvenenju v glavi
+> "If it ain't ringing (in your ears), your not doin' it right."    
+-- Sam Sandberg o zvenenju v glavi
 
 ### Biografija 
 

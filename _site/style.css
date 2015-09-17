@@ -37,5 +37,5 @@ a:hover {
 a:focus{outline:thin dotted}
 
 a:visited {
-	border-bottom: 1px dotted rgba(89, 6, 134, 0.8);
+	border-bottom: 1px solid rgba(42, 42, 42, 0.8);
 }

@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-Po novem poje [@davorinpavlica](https://twitter.com/davorinpavlica), ki še vedno trga strune. ~Basira [@loudk](https://twitter.com/loudk)~, po bobnih pa udriha [@loudandwicked](https://twitter.com/loudandwicked).
+Po novem poje [@davorinpavlica](https://twitter.com/davorinpavlica), ki še vedno trga strune. Po bobnih udriha [@loudandwicked](https://twitter.com/loudandwicked), [@loudk](https://twitter.com/loudk) pa ne basira več. 
 
 ### Družabna obrežja
 
@@ -26,6 +26,14 @@ Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsako sredo v 
 
 > "If it ain't ringing (in your ears), your not doin' it right."    
 -- Sam Sandberg o zvenenju v glavi
+
+### Bivši člani
+* Sam Sandberg (2011 - 2012, #wwwhbend)
+* Jernej Hostar (2013, #wwwhbend) 
+* Nina Krmavnar (2014)
+* David Panzalović (2010 - 2015)
+
+V resnici je seznam ljudi, ki so slišali [You're Out Of The Band](https://soundcloud.com/wwwhbend/youre-out-of-the-band) precej daljši, a sega še v čase #wwwhbend-a. Koga vse smo v preteklosti vrgli z benda [si lahko ogledate tule](http://wwwhbend.tumblr.com/o-bendu).
 
 ### Biografija 
 

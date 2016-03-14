@@ -3,14 +3,14 @@ layout: default
 title: Home
 ---
 
-Po novem poje [@davorinpavlica](https://twitter.com/davorinpavlica), ki še vedno trga strune. Po bobnih udriha [@loudandwicked](https://twitter.com/loudandwicked), [@loudk](https://twitter.com/loudk) pa ne basira več. 
+Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica). Po bobnih udriha [@loudandwicked](https://twitter.com/loudandwicked), basira pa po novem [@simonolenik](https://twitter.com/simonolenik). 
 
 ### Družabna obrežja
 
 Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https://instagram.com/hishnband/), jasno pa da smo tut [Fejstbukovi](https://www.facebook.com/hishnband). Aja, pa [Jutub kanal](https://www.youtube.com/channel/UCTIELIn2BgFNHFnyAlIdBiw) mamo tut. In seveda, nazadnje, a ne nazadnje, 'mamo svojo [madafakin'](http://motherfuckingwebsite.com/) spletno stran. :)
 
 ### Špili
-Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsako sredo v našem prijetno hladnem Zaklonišču. Če veste, kje smo, ste vljudno vabljeni - vsako sredo ob 20.30.
+Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsak ponedeljek v našem prijetno hladnem Zaklonišču. Če veste, kje smo, ste vljudno vabljeni - začnemo nekje ob 20.30.
 
 *Bivši špili*
 

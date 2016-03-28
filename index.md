@@ -41,8 +41,8 @@ V resnici je seznam ljudi, ki so slišali [You're Out Of The Band](https://sound
 
 Ker pa si že tu, je spodaj nekaj alinej, ki naj služijo kot osnova za biografijo! :)
 
-* 2013 - Na pogorišču [#wwwhbend](http://wwwhbend.tumblr.com/)-a nastane Hish N' Band. Iz kvarteta se bend prestrukturira v [močan trio](https://en.wikipedia.org/wiki/Power_trio).
-* 2014 - Viniju, LouDku in Peliju se na vokalu pridruži Nina Krmavnar. 
-* 2015 - Hišniki so spet power trio. Odigramo prvi in zadnji špil v letu, ki obeta
-* 2015 - Z benda se poslovi tudi LouDk, na bas pa pride Simon.
-* 2016 - Avtorski komadi pridno nastajajo v našem Zaklonišču. Ko jih bo več kot priredb, pokukamo na plano.
+* **2013** - Na pogorišču [#wwwhbend](http://wwwhbend.tumblr.com/)-a nastane / se preimenujemo v **Hish N' Band**. Iz kvarteta se bend prestrukturira v [močan trio](https://en.wikipedia.org/wiki/Power_trio).
+* **2014** - Viniju, LouDku in Peliju se na vokalu pridruži Nina Krmavnar. 
+* **2015** - Hišniki smo spet power trio. Odigramo prvi in zadnji špil v letu, ki nakazuje pot proti vse bolj avtorski glasbi.
+* **2015** - Z benda se poslovi tudi LouDk, na basu ga zamenja Simon.
+* **2016** - Avtorski komadi pridno nastajajo v našem Zaklonišču. Ko jih bo več kot priredb, pokukamo na plano.

@@ -24,7 +24,7 @@ Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsak ponedelje
 
 ### Citati
 
-> "If it ain't ringing (in your ears), your not doin' it right."    
+> "If it ain't ringing (in your ears), you're not doin' it right."
 -- Sam Sandberg o zvenenju v glavi
 
 ### Bivši člani
@@ -33,8 +33,16 @@ Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsak ponedelje
 * Nina Krmavnar (2014)
 * David Panzalović (2010 - 2015)
 
-V resnici je seznam ljudi, ki so slišali [You're Out Of The Band](https://soundcloud.com/wwwhbend/youre-out-of-the-band) precej daljši, a sega še v čase #wwwhbend-a. Koga vse smo v preteklosti vrgli z benda [si lahko ogledate tule](http://wwwhbend.tumblr.com/o-bendu).
+V resnici je seznam ljudi, ki so slišali [You're Out Of The Band](https://soundcloud.com/wwwhbend/youre-out-of-the-band) precej daljši, a sega še v čase [#wwwhbend](http://wwwhbend.tumblr.com/)-a. Koga vse smo v preteklosti vrgli z benda [si lahko ogledate tule](http://wwwhbend.tumblr.com/o-bendu).
 
-### Biografija 
+### Biografija
 
-Še pride ... kdo bi si mislil, da boš, dragi uporabnik, poskrolal tako daleč. Čestitke, si pri koncu naše strani.
+Še pride ... kdo bi si mislil, da boš, dragi uporabnik, poskrolal tako daleč.
+
+Ker pa si že tu, je spodaj nekaj alinej, ki naj služijo kot osnova za biografijo! :)
+
+* 2013 - Na pogorišču [#wwwhbend](http://wwwhbend.tumblr.com/)-a nastane Hish N' Band. Iz kvarteta se bend prestrukturira v [močan trio](https://en.wikipedia.org/wiki/Power_trio).
+* 2014 - Viniju, LouDku in Peliju se na vokalu pridruži Nina Krmavnar. 
+* 2015 - Hišniki so spet power trio. Odigramo prvi in zadnji špil v letu, ki obeta
+* 2015 - Z benda se poslovi tudi LouDk, na bas pa pride Simon.
+* 2016 - Avtorski komadi pridno nastajajo v našem Zaklonišču. Ko jih bo več kot priredb, pokukamo na plano.

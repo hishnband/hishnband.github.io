@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Hish N' Band - hishnband.si
 ---
 
 Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica). Po bobnih udriha [@loudandwicked](https://twitter.com/loudandwicked), basira pa po novem [@simonolenik](https://twitter.com/simonolenik). 
@@ -11,6 +11,11 @@ Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https:/
 
 ### Špili
 Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsak ponedeljek v našem prijetno hladnem Zaklonišču. Če veste, kje smo, ste vljudno vabljeni - začnemo nekje ob 20.30.
+
+
+*Bodoči špili*
+
+* 03/09/2016 - **Out Of China** - __T.B.C.__
 
 *Bivši špili*
 
@@ -41,7 +46,7 @@ V resnici je seznam ljudi, ki so slišali [You're Out Of The Band](https://sound
 
 Ker pa si že tu, je spodaj nekaj alinej, ki naj služijo kot osnova za biografijo! :)
 
-* **2013** - Na pogorišču [#wwwhbend](http://wwwhbend.tumblr.com/)-a nastane / se preimenujemo v **Hish N' Band**. Iz kvarteta se bend prestrukturira v [močan trio](https://en.wikipedia.org/wiki/Power_trio).
+* **2013** - Na pogorišču [#wwwhbend](http://wwwhbend.tumblr.com/)-a nastane v **Hish N' Band**. Z drugimi besedami: preostali člani kvarteta postanemo [močan trio](https://en.wikipedia.org/wiki/Power_trio) in si nadanemo novo ime.
 * **2014** - Viniju, LouDku in Peliju se na vokalu pridruži Nina Krmavnar. Skupaj odigramo tri špile. In posnamemo en akustični cover [za na YouTube](https://www.youtube.com/watch?v=dWg7lQWMXnc).
 * **2015** - Hišniki smo spet power trio. Odigramo prvi in zadnji špil v letu, ki nakazuje pot proti vse bolj avtorski glasbi. Petje prevzame Peli.
 * **2015** - Z benda se poslovi tudi LouDk, na basu ga zamenja Simon.

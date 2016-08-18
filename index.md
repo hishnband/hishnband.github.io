@@ -35,9 +35,25 @@ Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsak ponedelje
 
 ### Biografija
 
-Resna biografija še pride ... 
+Resna biografija še pride ...  Ampak, spodnjih nekaj vrstic je dobra osnova za krajšo napoved, mar ne. :)
 
-Ampak, spodnjih nekaj vrstic je dobra osnova za krajšo napoved, mar ne. :)
+### Na dolgo in široko
+
+Če bi hoteli malce bolj senzacionalistični tekst, bi lahko napisali, da s(m)o Hish N’ Band v bistvu ene sorte ljubljansko-grosupeljsko-brkinska superskupina. Lahko bi rekli, da so power trio, ki ima rad rokenrol s pridihom (alter) popa. Lahko bi se strinjali, da čeprav se imenujejo Hish N’ Band, (najbrž) nikoli ne bodo hišni bend. Lahko bi nakladali na dolgo in široko. Ampak ne bomo.
+
+### Člani zasedbe
+
+Če bi razlagali malce bolj na široko, bi predstavili člane benda in kje so se kalili in podobno:
+
+* **Simon Olenik - _Brko_** - [@simonolenik](https://twitter.com/simonolenik)
+	* bas kitara
+	* (Dirty) Sanchez, Rock Prešern
+* **Damjan Cilenšek - _Vini_** [@loudandwicked](https://twitter.com/loudandwicked)
+	* bobni, (bek)vokal
+	* Wicked Crew, Otroci oportunizma, Pink Panker
+* **Davorin Pavlica - _Peli_** - ([@davorinpavlica](https://twitter.com/davorinpavlica)
+	* vokal, kitara
+	* Šentviški marginalci, Žrebci
 
 ### Časovnica
 
@@ -47,25 +63,12 @@ Ampak, spodnjih nekaj vrstic je dobra osnova za krajšo napoved, mar ne. :)
 * **2015** - Z benda se poslovi tudi LouDk, na basu ga zamenja Simon.
 * **2016** - Avtorski komadi pridno nastajajo v našem Zaklonišču. Ko jih bo več kot priredb, pokukamo na plano.
 
-### Člani zasedbe
-
-Če bi razlagali malce bolj na široko, bi predstavili člane benda in kje so se kalili in podobno:
-
-* **Simon Olenik - _Brko_** - [@simonolenik](https://twitter.com/simonolenik) bas kitara
-	* (Dirty) Sanchez, Rock Prešern
-* **Damjan Cilenšek - _Vini_** [@loudandwicked](https://twitter.com/loudandwicked) - bobni, (bek)vokal
-	* Wicked Crew, Otroci oportunizma, Pink Panker
-* **Davorin Pavlica - _Peli_** - ([@davorinpavlica](https://twitter.com/davorinpavlica) vokal, kitara
-	* Šentviški marginalci, Žrebci
-
-### Na dolgo in široko
-
-Če bi hoteli malce bolj senzacionalistični tekst, bi lahko napisali, da s(m)o Hish N’ Band v bistvu ene sorte ljubljansko-grosupeljsko-brkinska superskupina. Lahko bi rekli, da so power trio, ki ima rad rokenrol s pridihom alter popa. Lahko bi se strinjali, da čeprav se imenujejo Hish N’ Band, (najbrž) nikoli ne bodo hišni bend. Lahko bi nakladali na dolgo in široko. Ampak ne bomo.
+!!! Glej koncertne datume zgoraj! !!!
 
 ### Bivši člani
 * Sam Sandberg (2011 - 2012, #wwwhbend)
 * Jernej Hostar (2013, #wwwhbend) 
 * Nina Krmavnar (2014)
-* David Panzalović (2010 - 2015)
+* David Panzalović - _LouDk_ (2010 - 2015)
 
 V resnici je seznam ljudi, ki so slišali [You're Out Of The Band](https://soundcloud.com/wwwhbend/youre-out-of-the-band) precej daljši, a sega še v čase [#wwwhbend](http://wwwhbend.tumblr.com/)-a. Koga vse smo v preteklosti vrgli z benda [si lahko ogledate tule](http://wwwhbend.tumblr.com/o-bendu).

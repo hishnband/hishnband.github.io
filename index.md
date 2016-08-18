@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hish N' Band - #hišniki - hishnband.si
+title: Hish N' Band aka Hišniki - hishnband.si
 ---
 
 Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica). Po bobnih udriha [@loudandwicked](https://twitter.com/loudandwicked), basira pa po novem [@simonolenik](https://twitter.com/simonolenik). 

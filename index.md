@@ -61,9 +61,7 @@ Resna biografija še pride ...  Ampak, spodnjih nekaj vrstic je dobra osnova za 
 * **2014** - Viniju, LouDku in Peliju se na vokalu pridruži Nina Krmavnar. Skupaj odigramo tri špile. In posnamemo en akustični cover [za na YouTube](https://www.youtube.com/watch?v=dWg7lQWMXnc).
 * **2015** - Hišniki smo spet power trio. Odigramo prvi in zadnji špil v letu, ki nakazuje pot proti vse bolj avtorski glasbi. Petje prevzame Peli.
 * **2015** - Z benda se poslovi tudi LouDk, na basu ga zamenja Simon.
-* **2016** - Avtorski komadi pridno nastajajo v našem Zaklonišču. Ko jih bo več kot priredb, pokukamo na plano.
-
-!!! Glej koncertne datume zgoraj! !!!
+* **2016** - Avtorski komadi pridno nastajajo v našem Zaklonišču. Ko jih bo več kot priredb, pokukamo na plano. To se zgodi septembra ... zato: !!! Glej koncertne datume zgoraj! !!!
 
 ### Bivši člani
 * Sam Sandberg (2011 - 2012, #wwwhbend)

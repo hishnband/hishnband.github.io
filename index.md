@@ -44,6 +44,7 @@ Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsak ponedelje
 ### Člani zasedbe
 
 Če bi razlagali malce bolj na široko, bi predstavili člane benda in kje so se kalili in podobno:
+
 * **Simon Olenik - _Brko_** - [@simonolenik](https://twitter.com/simonolenik) bas kitara,
 (Dirty) Sanchez, Rock Prešern
 * **Damjan Cilenšek - _Vini_** [@loudandwicked](https://twitter.com/loudandwicked) - bobni, (bek)vokal
@@ -51,7 +52,7 @@ Wicked Crew, Otroci oportunizma, Pink Panker
 * **Davorin Pavlica - _Peli_** - ([@davorinpavlica](https://twitter.com/davorinpavlica) vokal, kitara
 Šentviški marginalci, Žrebci
 
-### Na dolgo in široko
+### Na dolgo in široko
 
 Če bi hoteli senzacije bi lahko napisali, da so Hish N’ Band v bistvu ene sorte ljubljansko-grosupeljsko-brkinska superskupina. Lahko bi rekli, da so power trio, ki ima rad rokenrol s pridihom alter popa. Lahko bi se strinjali, da čeprav se imenujejo Hish N’ Band, (najbrž) nikoli ne bodo hišni bend. Lahko bi nakladali na dolgo in široko. Ampak ne bomo.
 

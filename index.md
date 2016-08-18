@@ -39,7 +39,7 @@ Resna biografija še pride ...  Ampak, spodnjih nekaj vrstic je dobra osnova za 
 
 ### Na dolgo in široko
 
-Če bi hoteli malce bolj senzacionalistični tekst, bi lahko napisali, da s(m)o Hish N’ Band v bistvu ene sorte ljubljansko-grosupeljsko-brkinska superskupina. Lahko bi rekli, da so power trio, ki ima rad rokenrol s pridihom (alter) popa. Lahko bi se strinjali, da čeprav se imenujejo Hish N’ Band, (najbrž) nikoli ne bodo hišni bend. Lahko bi nakladali na dolgo in široko. Ampak ne bomo.
+Če bi hoteli malce bolj senzacionalistični tekst, bi lahko napisali, da so Hish N’ Band v bistvu ene sorte ljubljansko-grosupeljsko-brkinska superskupina. Lahko bi rekli, da so power trio, ki ima rad rokenrol s pridihom (alter) popa. Lahko bi se strinjali, da čeprav se imenujejo Hish N’ Band, (najbrž) nikoli ne bodo hišni bend. Lahko bi nakladali na dolgo in široko. Ampak ne bomo.
 
 ### Člani zasedbe
 

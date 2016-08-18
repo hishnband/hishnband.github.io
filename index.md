@@ -33,6 +33,12 @@ Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsak ponedelje
 > "If it ain't ringing (in your ears), you're not doin' it right."
 -- Sam Sandberg o zvenenju v glavi
 
+### Biografija
+
+Resna biografija še pride ... 
+
+Ampak, spodnjih nekaj vrstic je dobra osnova za krajšo napoved, mar ne. :)
+
 ### Časovnica
 
 * **2013** - Na pogorišču [#wwwhbend](http://wwwhbend.tumblr.com/)-a nastane v **Hish N' Band**. Z drugimi besedami: preostali člani kvarteta postanemo [močan trio](https://en.wikipedia.org/wiki/Power_trio) in si nadanemo novo ime.
@@ -45,22 +51,16 @@ Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsak ponedelje
 
 Če bi razlagali malce bolj na široko, bi predstavili člane benda in kje so se kalili in podobno:
 
-* **Simon Olenik - _Brko_** - [@simonolenik](https://twitter.com/simonolenik) bas kitara,
-(Dirty) Sanchez, Rock Prešern
-* **Damjan Cilenšek - _Vini_** [@loudandwicked](https://twitter.com/loudandwicked) - bobni, (bek)vokal
-Wicked Crew, Otroci oportunizma, Pink Panker
+* **Simon Olenik - _Brko_** - [@simonolenik](https://twitter.com/simonolenik) bas kitara
+	* (Dirty) Sanchez, Rock Prešern
+* **Damjan Cilenšek - _Vini_** [@loudandwicked](https://twitter.com/loudandwicked) - bobni, (bek)vokal
+	* Wicked Crew, Otroci oportunizma, Pink Panker
 * **Davorin Pavlica - _Peli_** - ([@davorinpavlica](https://twitter.com/davorinpavlica) vokal, kitara
-Šentviški marginalci, Žrebci
+	* Šentviški marginalci, Žrebci
 
 ### Na dolgo in široko
 
-Če bi hoteli senzacije bi lahko napisali, da so Hish N’ Band v bistvu ene sorte ljubljansko-grosupeljsko-brkinska superskupina. Lahko bi rekli, da so power trio, ki ima rad rokenrol s pridihom alter popa. Lahko bi se strinjali, da čeprav se imenujejo Hish N’ Band, (najbrž) nikoli ne bodo hišni bend. Lahko bi nakladali na dolgo in široko. Ampak ne bomo.
-
-### Biografija
-
-Resna biografija še  pride ... kdo bi si mislil, da boš, dragi uporabnik, poskrolal tako daleč.
-
-Ampak, zgornjih nekaj vrstic je dobra osnova za krajšo napoved, mar ne. :)
+Če bi hoteli malce bolj senzacionalistični tekst, bi lahko napisali, da s(m)o Hish N’ Band v bistvu ene sorte ljubljansko-grosupeljsko-brkinska superskupina. Lahko bi rekli, da so power trio, ki ima rad rokenrol s pridihom alter popa. Lahko bi se strinjali, da čeprav se imenujejo Hish N’ Band, (najbrž) nikoli ne bodo hišni bend. Lahko bi nakladali na dolgo in široko. Ampak ne bomo.
 
 ### Bivši člani
 * Sam Sandberg (2011 - 2012, #wwwhbend)

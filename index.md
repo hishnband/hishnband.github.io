@@ -15,7 +15,8 @@ Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsak ponedelje
 
 *Bodoči špili*
 
-* 03/09/2016 - **Out Of China** - __T.B.C.__
+* 03/09/2016 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/Pivomanija/): [festival kraft pivovarn](https://www.facebook.com/events/1263313043701889/)
+* 22/09/2016 - **Ljubljana** - _Prulček_ 
 
 *Bivši špili*
 
@@ -40,14 +41,30 @@ Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsak ponedelje
 
 V resnici je seznam ljudi, ki so slišali [You're Out Of The Band](https://soundcloud.com/wwwhbend/youre-out-of-the-band) precej daljši, a sega še v čase [#wwwhbend](http://wwwhbend.tumblr.com/)-a. Koga vse smo v preteklosti vrgli z benda [si lahko ogledate tule](http://wwwhbend.tumblr.com/o-bendu).
 
-### Biografija
-
-Še pride ... kdo bi si mislil, da boš, dragi uporabnik, poskrolal tako daleč.
-
-Ker pa si že tu, je spodaj nekaj alinej, ki naj služijo kot osnova za biografijo! :)
+### Časovnica
 
 * **2013** - Na pogorišču [#wwwhbend](http://wwwhbend.tumblr.com/)-a nastane v **Hish N' Band**. Z drugimi besedami: preostali člani kvarteta postanemo [močan trio](https://en.wikipedia.org/wiki/Power_trio) in si nadanemo novo ime.
 * **2014** - Viniju, LouDku in Peliju se na vokalu pridruži Nina Krmavnar. Skupaj odigramo tri špile. In posnamemo en akustični cover [za na YouTube](https://www.youtube.com/watch?v=dWg7lQWMXnc).
 * **2015** - Hišniki smo spet power trio. Odigramo prvi in zadnji špil v letu, ki nakazuje pot proti vse bolj avtorski glasbi. Petje prevzame Peli.
 * **2015** - Z benda se poslovi tudi LouDk, na basu ga zamenja Simon.
 * **2016** - Avtorski komadi pridno nastajajo v našem Zaklonišču. Ko jih bo več kot priredb, pokukamo na plano.
+
+### Člani zasedbe
+
+Če bi razlagali malce bolj na široko, bi predstavili člane benda in kje so se kalili in podobno:
+• **Simon Olenik - _Brko_** - [@simonolenik](https://twitter.com/simonolenik) bas kitara,
+(Dirty) Sanchez, Rock Prešern
+• **Damjan Cilenšek - _Vini_** [@loudandwicked](https://twitter.com/loudandwicked) - bobni, (bek)vokal
+Wicked Crew, Otroci oportunizma, Pink Panker
+• **Davorin Pavlica - _Peli_** - ([@davorinpavlica](https://twitter.com/davorinpavlica) vokal, kitara
+Šentviški marginalci, Žrebci
+
+### Na dolgo in široko
+
+Če bi hoteli senzacije bi lahko napisali, da so Hish N’ Band v bistvu ene sorte ljubljansko-grosupeljsko-ilirskobirstriška superskupina. Lahko bi rekli, da so power trio, ki ima rad rokenrol s pridihom alter popa. Lahko bi se strinjali, da čeprav se imenujejo Hish N’ Band, nikoli ne bodo hišni bend. Lahko bi nakladali na dolgo in široko. Ampak ne bomo.
+
+### Biografija
+
+Še pride ... kdo bi si mislil, da boš, dragi uporabnik, poskrolal tako daleč.
+
+Ker pa si že tu, je spodaj nekaj alinej, ki naj služijo kot osnova za biografijo! :)

@@ -48,7 +48,7 @@ Resna biografija še pride ...  Ampak, spodnjih nekaj vrstic je dobra osnova za 
 * **Simon Olenik - _Brko_** - [@simonolenik](https://twitter.com/simonolenik)
 	* bas kitara
 	* (Dirty) Sanchez, Rock Prešern
-* **Damjan Cilenšek - _Vini_** [@loudandwicked](https://twitter.com/loudandwicked)
+* **Damjan Cilenšek - _Vini_** - [@loudandwicked](https://twitter.com/loudandwicked)
 	* bobni, (bek)vokal
 	* Wicked Crew, Otroci oportunizma, Pink Panker
 * **Davorin Pavlica - _Peli_** - ([@davorinpavlica](https://twitter.com/davorinpavlica)

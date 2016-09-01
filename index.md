@@ -3,7 +3,7 @@ layout: default
 title: Hišniki - hishnband.si
 ---
 
-Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica). Po bobnih udriha [@loudandwicked](https://twitter.com/loudandwicked), basira pa po novem [@simonolenik](https://twitter.com/simonolenik). 
+Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica). Po bobnih tolče in izza njih kriči [@loudandwicked](https://twitter.com/loudandwicked), basira pa [@simonolenik](https://twitter.com/simonolenik). 
 
 ### Družabna obrežja
 

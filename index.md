@@ -34,7 +34,7 @@ Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https:/
 
 ### Biografija
 
-Resna biografija še pride ...  Ampak, spodnjih nekaj vrstic je dobra osnova za krajšo napoved, mar ne. :)
+Hish N' Band smo alter pop power trio. V resnici bolj rock, ampak alter pop se sliši bolj alter. [Power trio](https://en.wikipedia.org/wiki/Power_trio), ker smo trije in ker smo močni! Trenutno naš repertoar prepletajo avtorske skladbe in priredbe rockerskih duetov, triov, kvartetov in kvintetov. Razmerje se z vsakim koncertom nagiba v stran avtorskim kompozicijam, tako da lepo vabljeni, da nas pridete poslušat v živo.
 
 ### Na dolgo in široko
 

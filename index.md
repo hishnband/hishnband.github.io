@@ -10,8 +10,7 @@ Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davo
 Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https://instagram.com/hishnband/), jasno pa da smo tut [Fejstbukovi](https://www.facebook.com/hishnband). Aja, pa [Jutub kanal](https://www.youtube.com/channel/UCTIELIn2BgFNHFnyAlIdBiw) mamo tut. In seveda, nazadnje, a ne nazadnje, 'mamo svojo [madafakin'](http://motherfuckingwebsite.com/) spletno stran. :)
 
 ### Špili
-Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsak ponedeljek v našem prijetno hladnem Zaklonišču. Če veste, kje smo, ste vljudno vabljeni - začnemo nekje ob 20.30.
-
+<!-- Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsako sredo v našem prijetno hladnem Zaklonišču. Če veste, kje smo, ste vljudno vabljeni - začnemo nekje ob 20.30. --> 
 
 *Bodoči špili*
 
@@ -39,7 +38,7 @@ Resna biografija še pride ...  Ampak, spodnjih nekaj vrstic je dobra osnova za 
 
 ### Na dolgo in široko
 
-Če bi hoteli malce bolj senzacionalistični tekst, bi lahko napisali, da so Hish N’ Band v bistvu ene sorte ljubljansko-grosupeljsko-brkinska superskupina. Lahko bi rekli, da so power trio, ki ima rad rokenrol s pridihom (alter) popa. Lahko bi se strinjali, da čeprav se imenujejo Hish N’ Band, (najbrž) nikoli ne bodo hišni bend. Lahko bi nakladali na dolgo in široko. Ampak ne bomo.
+Če bi hoteli malce bolj senzacionalistični tekst, bi lahko napisali, da so Hish N’ Band v bistvu ene sorte ljubljansko-brkinska superskupina. Lahko bi rekli, da so power trio, ki ima rad rokenrol s pridihom (alter) popa. Lahko bi se strinjali, da čeprav se imenujejo Hish N’ Band, (najbrž) nikoli ne bodo hišni bend. Lahko bi nakladali na dolgo in široko. Ampak ne bomo.
 
 ### Člani zasedbe
 

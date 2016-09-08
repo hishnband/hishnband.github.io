@@ -18,7 +18,7 @@ Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https:/
 
 *Bivši špili*
 
-* 03/09/2016 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/Pivomanija/): [festival kraft pivovarn](https://www.facebook.com/events/1263313043701889/)
+* 03/09/2016 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/Pivomanija/): [festival kraft pivovarn](https://www.facebook.com/events/1263313043701889/) - ([fotke na FB](https://www.facebook.com/media/set/?set=a.1082725308432037.1073741831.165216820182895&type=3))
 * 26/06/2015 - **Šentvid pri Stični** - _Fly-in & EXPO 2015_ - ([fotke na FB](https://t.co/IoHGeedZzR))
 * 19/09/2014 - **Ajdovščina** - _Bar Hiša mladih_
 * 05/04/2014 - **Vrhnika** - _Human Fish Brewery_ - Srečanje [Društva ljubiteljev domačega pivovarstva](https://dldp.wordpress.com/2014/04/17/porocilo-1-utrip-domace-pivovarske-scene/)

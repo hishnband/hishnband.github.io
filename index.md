@@ -52,7 +52,7 @@ Hish N' Band smo alter pop power trio. V resnici bolj rock, ampak alter pop se s
 * **Damjan Cilenšek - _Vini_** - [@loudandwicked](https://twitter.com/loudandwicked)
 	* bobni, (bek)vokal
 	* Wicked Crew, Otroci oportunizma, Pink Panker
-* **Davorin Pavlica - _Peli_** - ([@davorinpavlica](https://twitter.com/davorinpavlica)
+* **Davorin Pavlica - _Peli_** - [@davorinpavlica](https://twitter.com/davorinpavlica)
 	* vokal, kitara
 	* Šentviški marginalci, Žrebci
 

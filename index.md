@@ -7,7 +7,7 @@ Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davo
 
 ### Družabna obrežja
 
-Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https://instagram.com/hishnband/), jasno pa da smo tut [Fejstbukovi](https://www.facebook.com/hishnband). Aja, pa [Jutub kanal](https://www.youtube.com/channel/UCTIELIn2BgFNHFnyAlIdBiw) mamo tut. In seveda, nazadnje, a ne nazadnje, 'mamo svojo [madafakin'](http://motherfuckingwebsite.com/) spletno stran. :)
+Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https://instagram.com/hishnband/), jasno pa da smo tut [Fejstbukovi](https://www.facebook.com/hishnband). Aja, pa [Jutub kanal](https://www.youtube.com/channel/UCTIELIn2BgFNHFnyAlIdBiw) mamo tut. Pa na [setlist.fm](http://www.setlist.fm/setlists/hish-n-band-5bc02fdc.html) smo tudi. In seveda, nazadnje, a ne nazadnje, 'mamo svojo [madafakin'](http://motherfuckingwebsite.com/) spletno stran. :)
 
 ### Špili
 <!-- Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsako sredo v našem prijetno hladnem Zaklonišču. Če veste, kje smo, ste vljudno vabljeni - začnemo nekje ob 20.30. --> 
@@ -23,9 +23,11 @@ Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https:/
 * 19/09/2014 - **Ajdovščina** - _Bar Hiša mladih_
 * 05/04/2014 - **Vrhnika** - _Human Fish Brewery_ - Srečanje [Društva ljubiteljev domačega pivovarstva](https://dldp.wordpress.com/2014/04/17/porocilo-1-utrip-domace-pivovarske-scene/)
 * 04/04/2014 - **Ljubljana** - _Lepa žoga_
-* 17/05/2013 - **Ljubljana** - _KUD France Prešeren_ - ŽVPL-ova #petnajstka
-* 03/12/2013 - **Ljubljana** - _Popi's pub_
+* 06/12/2013 - **Ljubljana** - _Popi's pub_
 * 29/05/2013 - **Kranj** - _Terasa Atelje Kranj_ - ([video na YouTubetu](https://www.youtube.com/watch?v=pA2vpjAGfOQ))
+* 24/05/2013 - **Ljubljana** - _Kiberpipa_ - Poslovilni žur Kiberpipe
+* 17/05/2013 - **Ljubljana** - _KUD France Prešeren_ - ŽVPL-ova #petnajstka
+
 
 ### Citati
 

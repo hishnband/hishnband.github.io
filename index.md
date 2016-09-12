@@ -14,7 +14,7 @@ Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https:/
 
 *Bodoči špili*
 
-* 22/09/2016 - **Ljubljana** - _Prulček_ 
+* 22/09/2016 - **Ljubljana** - _Prulček_ [pofočkaj se na FB-ju](https://www.facebook.com/events/278103375908389/)
 
 *Bivši špili*
 

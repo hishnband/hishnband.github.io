@@ -11,4 +11,19 @@
 
 <h1>Hish N' Band</h1>
 
+<nav role="navigation">
+  <p>
+  {% assign thisUrl = page.url | remove: 'index.html' %}
+  {% for item in site.data.nav offset:navOffset %}
+    {% if item.url == thisUrl %}
+      <span class="current">{{ item.text }}</span> | 
+    {% else %}
+      <span><a href="{{ item.url }}">{{ item.text }}</a></span> |
+    {% endif %}
+  {% endfor %}
+  </p>
+</nav>
+
+<hr />
+
 <h2>Alter pop power trio</h2>

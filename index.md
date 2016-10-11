@@ -10,14 +10,14 @@ Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davo
 Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https://instagram.com/hishnband/), jasno pa da smo tut [Fejstbukovi](https://www.facebook.com/hishnband). Aja, pa [Jutub kanal](https://www.youtube.com/channel/UCTIELIn2BgFNHFnyAlIdBiw) mamo tut. Pa na [setlist.fm](http://www.setlist.fm/setlists/hish-n-band-5bc02fdc.html) smo tudi. In seveda, nazadnje, a ne nazadnje, 'mamo svojo [madafakin'](http://motherfuckingwebsite.com/) spletno stran. :)
 
 ### Špili
-<!-- Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsako sredo v našem prijetno hladnem Zaklonišču. Če veste, kje smo, ste vljudno vabljeni - začnemo nekje ob 20.30. --> 
 
 *Bodoči špili*
 
-* 22/09/2016 - **Ljubljana** - _Prulček_ ☛[pofočkaj se na FB-ju](https://www.facebook.com/events/278103375908389/)
+Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsako sredo v našem prijetno vlažnem Zaklonišču. Če veste, kje smo, ste vljudno vabljeni - začnemo nekje ob 20.30.
 
 *Bivši špili*
 
+* 22/09/2016 - **Ljubljana** - _Prulček_ ☛[event na FB-ju](https://www.facebook.com/events/278103375908389/) - (setlista [na setlist.fm](http://www.setlist.fm/setlist/hish-n-band/2016/prulek-bar-ljubljana-slovenia-7bfdd248.html))
 * 03/09/2016 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/Pivomanija/): [festival kraft pivovarn](https://www.facebook.com/events/1263313043701889/) - ([fotke na FB](https://www.facebook.com/media/set/?set=a.1082725308432037.1073741831.165216820182895&type=3))
 * 26/06/2015 - **Šentvid pri Stični** - _Fly-in & EXPO 2015_ - ([fotke na FB](https://t.co/IoHGeedZzR))
 * 19/09/2014 - **Ajdovščina** - _Bar Hiša mladih_

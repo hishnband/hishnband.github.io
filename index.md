@@ -3,7 +3,7 @@ layout: default
 title: Hišniki - hishnband.si
 ---
 
-Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica). Po bobnih tolče in izza njih kriči [@loudandwicked](https://twitter.com/loudandwicked), basira pa [@simonolenik](https://twitter.com/simonolenik). 
+Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica). Po bobnih tolče in izza njih kriči [@loudandwicked](https://twitter.com/loudandwicked), basira pa [@simonolenik](https://twitter.com/simonolenik). Na kitari in bekvokalih je od začetka leta 2017 tudi naš [#skrivnostninovičlan](https://www.facebook.com/hashtag/skrivnostninovi%C4%8Dlan).
 
 ### Družabna obrežja
 
@@ -13,7 +13,11 @@ Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https:/
 
 *Bodoči špili*
 
-Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsako sredo v našem prijetno vlažnem Zaklonišču. Če veste, kje smo, ste vljudno vabljeni - začnemo nekje ob 20.30.
+Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsak pondeljek ali sredo v našem prijetno hladnem Zaklonišču. Če veste, kje smo, ste vljudno vabljeni - začnemo nekje ob 19h.
+
+* 02/09/2017 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/Pivomanija/): festival kraft pivovarn
+* 09/2017 - **Trzin** - _TBC_
+* 06/2017 - **Bela Krajina** - _TBC_
 
 *Bivši špili*
 
@@ -36,21 +40,24 @@ Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsako sredo v 
 
 ### Biografija
 
-Hish N' Band smo alter pop power trio. V resnici bolj rock, ampak alter pop se sliši bolj alter. [Power trio](https://en.wikipedia.org/wiki/Power_trio), ker smo trije in ker smo močni! Trenutno naš repertoar prepletajo avtorske skladbe in priredbe rockerskih duetov, triov, kvartetov in kvintetov. Razmerje se z vsakim koncertom nagiba v stran avtorskim kompozicijam, tako da lepo vabljeni, da nas pridete poslušat v živo.
+Hish N' Band smo alter pop power kvartet. Bili smo trio, ampak nismo več. V resnici bolj rock, ampak alter pop se sliši bolj alter. Iz repertoarja smo črtali predelave rock klasik in delamo na lastnih komadih. Trenutno jih imamo za dober EP, tako da smo godni za festivalske nastope do 45 minut. Smo pa tudi odlična predskupina.
 
 ### Na dolgo in široko
 
-Če bi hoteli malce bolj senzacionalistični tekst, bi lahko napisali, da so Hish N’ Band v bistvu ene sorte ljubljansko-brkinska superskupina. Lahko bi rekli, da so power trio, ki ima rad rokenrol s pridihom (alter) popa. Lahko bi se strinjali, da čeprav se imenujejo Hish N’ Band, (najbrž) nikoli ne bodo hišni bend. Lahko bi nakladali na dolgo in široko. Ampak ne bomo.
+Če bi hoteli malce bolj senzacionalistični tekst, bi lahko napisali, da so Hish N’ Band v bistvu ene sorte ljubljansko-brkinska superskupina. Lahko bi rekli, da so kvartet, ki ima rad rokenrol s pridihom (alter) popa. Lahko bi se strinjali, da čeprav se imenujejo Hish N’ Band, (najbrž) nikoli ne bodo hišni bend. Lahko bi nakladali na dolgo in široko. Ampak ne bomo.
 
 ### Člani zasedbe
 
 Če bi razlagali malce bolj na široko, bi predstavili člane benda in kje so se kalili in podobno:
 
+* **Skrivnostni Novi - _Član_** - [#skrivnostninovičlan](https://www.facebook.com/hashtag/skrivnostninovi%C4%8Dlan)
+	* kitara, bekvokali
+	* Reality Clauses, Babewatch, ... 
 * **Simon Olenik - _Brko_** - [@simonolenik](https://twitter.com/simonolenik)
 	* bas kitara
 	* (Dirty) Sanchez, Rock Prešern
 * **Damjan Cilenšek - _Vini_** - [@loudandwicked](https://twitter.com/loudandwicked)
-	* bobni, (bek)vokal
+	* bobni, bekvokal
 	* Wicked Crew, Otroci oportunizma, Pink Panker
 * **Davorin Pavlica - _Peli_** - [@davorinpavlica](https://twitter.com/davorinpavlica)
 	* vokal, kitara
@@ -62,7 +69,8 @@ Hish N' Band smo alter pop power trio. V resnici bolj rock, ampak alter pop se s
 * **2014** - Viniju, LouDku in Peliju se na vokalu pridruži Nina Krmavnar. Skupaj odigramo tri špile. In posnamemo en akustični cover [za na YouTube](https://www.youtube.com/watch?v=dWg7lQWMXnc).
 * **2015** - Hišniki smo spet power trio. Odigramo prvi in zadnji špil v letu, ki nakazuje pot proti vse bolj avtorski glasbi. Petje prevzame Peli.
 * **2015** - Z benda se poslovi tudi LouDk, na basu ga zamenja Simon.
-* **2016** - Avtorski komadi pridno nastajajo v našem Zaklonišču. Ko jih bo več kot priredb, pokukamo na plano. To se zgodi septembra, zato ... ⬆⬆⬆ glej koncertne datume zgoraj ⬆⬆⬆!
+* **2016** - Avtorski komadi pridno nastajajo v našem Zaklonišču. Ko jih bo več kot priredb, pokukamo na plano. 
+* **2017** - S prihodom kitarista / bekvokalista, ki mu zaenkrat rečemo [#skrivnostninovičlan](https://www.facebook.com/hashtag/skrivnostninovi%C4%8Dlan) se začnemo fokusirati samo na lastne kompozicije.
 
 ### Bivši člani
 * Sam Sandberg (2011 - 2012, #wwwhbend)

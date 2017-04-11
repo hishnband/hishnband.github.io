@@ -41,3 +41,7 @@ a:hover {
 a:focus {
 	outline:thin dotted rgba(76, 159, 217, 0.4)
 }
+
+.strike {
+    text-decoration: line-through;
+}

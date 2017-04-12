@@ -51,7 +51,7 @@ Hish N' Band smo alter pop power kvartet. Bili smo trio, ampak nismo več. V res
 Če bi razlagali malce bolj na široko, bi predstavili člane benda in kje so se kalili in podobno:
 
 * **Skrivnostni Novi - _Član_** - [#skrivnostninovičlan](https://www.facebook.com/hashtag/skrivnostninovi%C4%8Dlan)
-	* kitara, bekvokali
+	* kitara, bekvokal
 	* Reality Clauses, Babewatch, ... 
 * **Simon Olenik - _Brko_** - [@simonolenik](https://twitter.com/simonolenik)
 	* bas kitara

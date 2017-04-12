@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Koncerti
+permalink: /koncerti/
 ---
 
 Seznam koncertov najdete spodaj, [na setlist.fm](http://www.setlist.fm/setlists/hish-n-band-5bc02fdc.html) najdete pa tudi naše setliste.

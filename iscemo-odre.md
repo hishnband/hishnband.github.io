@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Iščemo (male in velike) odre
+permalink: /iscemo-odre/
 ---
 
 Hišniki vedno iščemo kakšen oder, kjer bi lahko igrali. V našem Zaklonišču je vlažno in res ne bi radi (pre)več igrali tam. Poleg tega tam nimamo odra, kjer bi nabirali kilometrino pred živo publiko.
@@ -11,8 +12,12 @@ Na repertoarju imamo trenutno 5 svojih skladb, v delu so še 3, tako da smo lahk
 
 ### Popestritev zabave
 
-Radi pridemo tudi na razne zabave. Domače, službene, ...
+Radi pridemo tudi na razne zabave. Domače ali službene ... Ker nismo člani sindikata, radi igramo tudi na sindikalnih žurkah.
 
-### Imaš klub
+### Na potovanju
+
+Ker premalo potujemo bomo veseli tudi kakšnega povabila na potovanje. Igramo lahko na vlaku, avtobusu, v kombiju, letalu ali na ladji. Še na splavu bi šlo.
+
+## Imaš klub
 
 Vse lastnike klubov / promotorje / menedžerje vabimo, da nas pridete pogledat v živo. Mogoče za orientacijo bodo pomagale [setliste na setlist.fm](http://www.setlist.fm/setlists/hish-n-band-5bc02fdc.html)

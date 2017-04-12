@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Za novinvarje
+permalink: /press/
 ---
 
 Press informacije. Bodo, enkrat.

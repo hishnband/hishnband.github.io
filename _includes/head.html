@@ -1,13 +1,13 @@
 <head>
   {% include meta.html %}
   <title>{% if page.title == "Home" %}{{ site.title }} - {{ site.tagline }}{% else %}{{ site.title }} - {{ page.title }}{% endif %}</title>
-  <!-- Google PT Serif font-->
-  <link href='http://fonts.googleapis.com/css?family=PT+Serif:400,700,700italic,400italic' rel='stylesheet' type='text/css'>
+  <!-- Roboto Slab -->
+  <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700" rel="stylesheet"> 
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
 </head>
 
-<body>
+<body id="home">
 
 <h1>Hish N' Band</h1>
 
@@ -26,4 +26,4 @@
 
 <hr />
 
-<h2>Alter pop power trio</h2>
+<h2>Alter pop power <span class="strike">trio</span> kvartet</h2>

@@ -22,7 +22,7 @@ Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsak pondeljek
 
 * 21/06/2017 - **Ljubljana** - _Pred Figovcem_ - [Praznik glasbe 2017](https://www.facebook.com/praznikglasbe/) kot _Jaga & Punk Tribute 2 Hish N' Band (Brko in #skrivnostninovičlan sta manjkala (dopust press), zato smo bili power trio, na basu je gostoval Jaga od [Pink Pankerjev](http://www.pinkpanker.si/))
 * 17/06/2017 - **Podzemelj** - _Kamp Podzemelj_ - Prvič s #skrivnostninovičlan ... in brez Pelija na vokalu. :/
-* 22/09/2016 - **Ljubljana** - _Prulček_ ☛[event na FB-ju](https://www.facebook.com/events/278103375908389/) - (setlista [na setlist.fm](http://www.setlist.fm/setlist/hish-n-band/2016/prulek-bar-ljubljana-slovenia-7bfdd248.html))
+* 22/09/2016 - **Ljubljana** - _Prulček_ - (setlista [na setlist.fm](http://www.setlist.fm/setlist/hish-n-band/2016/prulek-bar-ljubljana-slovenia-7bfdd248.html))
 * 03/09/2016 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/Pivomanija/): [festival kraft pivovarn](https://www.facebook.com/events/1263313043701889/) - ([fotke na FB](https://www.facebook.com/media/set/?set=a.1082725308432037.1073741831.165216820182895&type=3))
 * 26/06/2015 - **Šentvid pri Stični** - _Fly-in & EXPO 2015_ - ([fotke na FB](https://t.co/IoHGeedZzR))
 * 19/09/2014 - **Ajdovščina** - _Bar Hiša mladih_

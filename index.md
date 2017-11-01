@@ -11,13 +11,13 @@ Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https:/
 
 ### Špili
 
-*Bodoči špili*
+#### Bodoči špili
 
 Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsak pondeljek ali sredo v našem prijetno hladnem Zaklonišču. Če veste, kje smo, ste vljudno vabljeni - začnemo nekje ob 19h.
 
 * ??/2017 - **Trzin** - _TBC_ - TBA
 
-*Bivši špili*
+#### Bivši špili
 
 * 02/09/2017 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/Pivomanija/): [festival kraft pivovarn](https://www.facebook.com/events/1263313043701889/)
 * 21/06/2017 - **Ljubljana** - _Pred Figovcem_ - [Praznik glasbe 2017](https://www.facebook.com/praznikglasbe/) kot _Jaga & Punk Tribute 2 Hish N' Band_ (Brko in #skrivnostninovičlan sta manjkala (dopust press), zato smo bili power trio, na basu je gostoval Jaga od [Pink Pankerjev](http://www.pinkpanker.si/))
@@ -79,4 +79,4 @@ Hish N' Band smo alter pop power kvartet. Bili smo trio, ampak nismo več. V res
 * Nina Krmavnar (2014)
 * David Panzalović - _LouDk_ (2010 - 2015)
 
-V resnici je seznam ljudi, ki so slišali [You're Out Of The Band](https://soundcloud.com/wwwhbend/youre-out-of-the-band) precej daljši, a sega še v čase [#wwwhbend](http://wwwhbend.tumblr.com/)-a. Koga vse smo v preteklosti vrgli z benda [si lahko ogledate tule](http://wwwhbend.tumblr.com/o-bendu).
+V resnici je seznam ljudi, ki so slišali [You're Out Of The Band](https://soundcloud.com/wwwhbend/youre-out-of-the-band) precej daljši, a sega še v čase [#wwwhbend](http://wwwhbend.tumblr.com/)-a. Koga vse smo v preteklosti vrgli z benda [si lahko ogledate tule](http://web.archive.org/web/20130513102148/http://wwwh.bend.si:80/o-bendu).

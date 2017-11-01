@@ -3,7 +3,7 @@ layout: default
 title: Hišniki - hishnband.si
 ---
 
-Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica). Po bobnih tolče in izza njih kriči [@loudandwicked](https://twitter.com/loudandwicked), basira pa [@simonolenik](https://twitter.com/simonolenik). Na kitari in bekvokalih je od začetka leta 2017 tudi naš [#skrivnostninovičlan](https://www.facebook.com/hashtag/skrivnostninovi%C4%8Dlan).
+Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica). Po bobnih tolče in izza njih kriči [@loudandwicked](https://twitter.com/loudandwicked), basira pa [@simonolenik](https://twitter.com/simonolenik). Na kitari, bekvokalih in ogrlicah je od začetka leta 2017 tudi [@spretan](https://twitter.com/spretan), ki je bil včasih znan kot [#skrivnostninovičlan](https://www.facebook.com/hashtag/skrivnostninovi%C4%8Dlan).
 
 ### Družabna obrežja
 
@@ -15,11 +15,11 @@ Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https:/
 
 Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsak pondeljek ali sredo v našem prijetno hladnem Zaklonišču. Če veste, kje smo, ste vljudno vabljeni - začnemo nekje ob 19h.
 
-* 02/09/2017 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/Pivomanija/): [festival kraft pivovarn](https://www.facebook.com/events/1263313043701889/)
-* 09/2017 - **Trzin** - _TBC_ - TBA
+* ??/2017 - **Trzin** - _TBC_ - TBA
 
 *Bivši špili*
 
+* 02/09/2017 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/Pivomanija/): [festival kraft pivovarn](https://www.facebook.com/events/1263313043701889/)
 * 21/06/2017 - **Ljubljana** - _Pred Figovcem_ - [Praznik glasbe 2017](https://www.facebook.com/praznikglasbe/) kot _Jaga & Punk Tribute 2 Hish N' Band_ (Brko in #skrivnostninovičlan sta manjkala (dopust press), zato smo bili power trio, na basu je gostoval Jaga od [Pink Pankerjev](http://www.pinkpanker.si/))
 * 17/06/2017 - **Podzemelj** - _Kamp Podzemelj_ - Prvič s #skrivnostninovičlan ... in brez Pelija na vokalu. :/
 * 22/09/2016 - **Ljubljana** - _Prulček_ - (setlista [na setlist.fm](http://www.setlist.fm/setlist/hish-n-band/2016/prulek-bar-ljubljana-slovenia-7bfdd248.html))
@@ -51,7 +51,7 @@ Hish N' Band smo alter pop power kvartet. Bili smo trio, ampak nismo več. V res
 
 Če bi razlagali malce bolj na široko, bi predstavili člane benda in kje so se kalili in podobno:
 
-* **Skrivnostni Novi - _Član_** - [#skrivnostninovičlan](https://www.facebook.com/hashtag/skrivnostninovi%C4%8Dlan)
+* **Uroš Primožič - _Spretan_** - [@spretan](https://twitter.com/spretan)
 	* kitara, bekvokal
 	* Reality Clauses, Babewatch, ... 
 * **Simon Olenik - _Brko_** - [@simonolenik](https://twitter.com/simonolenik)
@@ -71,7 +71,7 @@ Hish N' Band smo alter pop power kvartet. Bili smo trio, ampak nismo več. V res
 * **2015** - Hišniki smo spet power trio. Odigramo prvi in zadnji špil v letu, ki nakazuje pot proti vse bolj avtorski glasbi. Petje prevzame Peli.
 * **2015** - Z benda se poslovi tudi LouDk, na basu ga zamenja Simon.
 * **2016** - Avtorski komadi pridno nastajajo v našem Zaklonišču. Ko jih bo več kot priredb, pokukamo na plano. 
-* **2017** - S prihodom kitarista / bekvokalista, ki mu zaenkrat rečemo [#skrivnostninovičlan](https://www.facebook.com/hashtag/skrivnostninovi%C4%8Dlan) se začnemo fokusirati samo na lastne kompozicije.
+* **2017** - S prihodom kitarista / producenta / bekvokalista / orgličarja Spretana se začnemo fokusirati samo na lastne kompozicije. Trenutno jih uigravamo 10, v nastajanju pa je še cca 10 novih.
 
 ### Bivši člani
 * Sam Sandberg (2011 - 2012, #wwwhbend)

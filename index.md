@@ -3,7 +3,7 @@ layout: default
 title: Hišniki - hishnband.si
 ---
 
-Bivši alter-pop trio. Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica). Po bobnih tolče in izza njih kriči [@loudandwicked](https://twitter.com/loudandwicked), basira pa [@simonolenik](https://twitter.com/simonolenik). Na kitari, spremljevalnih vokalih in ogrlicah je od začetka leta 2017 tudi [@spretan](https://twitter.com/spretan), ki je bil včasih znan kot [#skrivnostninovičlan](https://www.facebook.com/hashtag/skrivnostninovi%C4%8Dlan).
+Hišniki smo bivši alter pop trio. Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica). Po bobnih tolče in izza njih kriči [@loudandwicked](https://twitter.com/loudandwicked), basira pa [@simonolenik](https://twitter.com/simonolenik). Na kitari, spremljevalnih vokalih in ogrlicah je od začetka leta 2017 tudi [@spretan](https://twitter.com/spretan), ki je bil včasih znan kot [#skrivnostninovičlan](https://www.facebook.com/hashtag/skrivnostninovi%C4%8Dlan).
 
 ### Družabna obrežja
 
@@ -43,7 +43,7 @@ Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsako ~ponedel
 
 ### Biografija
 
-Hish N' Band smo alter pop power kvartet. Bili smo trio, ampak nismo več. V resnici bolj rock, ampak alter pop se sliši bolj alter. Iz repertoarja smo črtali predelave rock klasik in delamo na lastnih komadih. Trenutno jih imamo za dober EP, tako da smo godni za festivalske nastope do 45 minut. Smo pa tudi odlična predskupina.
+Hish N' Band smo alter pop power kvartet. Bili smo trio, ampak nismo več. V resnici bolj rock, ampak alter pop se sliši bolj alter. Iz repertoarja smo črtali predelave rock klasik in ustvarjamo na lastne komado. Trenutno jih imamo en ducat, za na ploščo, tako da smo godni za festivalske nastope do ene ure. Smo pa tudi odlična predskupina.
 
 ### Na dolgo in široko
 

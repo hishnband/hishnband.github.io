@@ -20,7 +20,7 @@ Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsak pondeljek
 #### Bivši špili
 
 * 02/09/2017 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/Pivomanija/): [festival kraft pivovarn](https://www.facebook.com/events/170518470284756/) - ([fotke na FB](https://www.facebook.com/pg/hishnband/photos/?tab=album&album_id=1816331661738061))
-* 10/06/2018 - **Ljubljana** - _Skrvni piknik prostor_ - Skrivnostni špil ob okroglem jubileju drage prijateljice
+* 10/06/2018 - **Ljubljana** - _Skrivni piknik prostor_ - Skrivnostni špil ob okroglem jubileju drage prijateljice
 * 02/09/2017 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/Pivomanija/): [festival kraft pivovarn](https://www.facebook.com/events/1263313043701889/)
 * 21/06/2017 - **Ljubljana** - _Pred Figovcem_ - [Praznik glasbe 2017](https://www.facebook.com/praznikglasbe/) kot _Jaga & Punk Tribute 2 Hish N' Band_ (Brko in #skrivnostninovičlan sta manjkala (dopust press), zato smo bili power trio, na basu je gostoval Jaga od [Pink Pankerjev](http://www.pinkpanker.si/))
 * 17/06/2017 - **Podzemelj** - _Kamp Podzemelj_ - Prvič s #skrivnostninovičlan ... in brez Pelija na vokalu. :/

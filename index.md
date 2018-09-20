@@ -74,6 +74,7 @@ Hish N' Band smo alter pop power kvartet. Bili smo trio, ampak nismo več. V res
 * **2015** - Z benda se poslovi tudi LouDk, na basu ga zamenja Simon.
 * **2016** - Avtorski komadi pridno nastajajo v našem Zaklonišču. Ko jih bo več kot priredb, pokukamo na plano. 
 * **2017** - S prihodom kitarista / producenta / bekvokalista / orgličarja Spretana se začnemo fokusirati samo na lastne kompozicije. Trenutno jih uigravamo 10, v nastajanju pa je še cca 10 novih.
+* **2017** - Ducat komadov pridno vadimo, mestoma koncertiramo in snemamo popevki za prvi singel: jeseni bosta luč sveta ugledala _Kdo je ukradel poletje?_ in _Al' ja, al' ne_!
 
 ### Bivši člani
 * Sam Sandberg (2011 - 2012, #wwwhbend)

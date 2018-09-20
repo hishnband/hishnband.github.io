@@ -3,7 +3,7 @@ layout: default
 title: Hišniki - hishnband.si
 ---
 
-Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica). Po bobnih tolče in izza njih kriči [@loudandwicked](https://twitter.com/loudandwicked), basira pa [@simonolenik](https://twitter.com/simonolenik). Na kitari, bekvokalih in ogrlicah je od začetka leta 2017 tudi [@spretan](https://twitter.com/spretan), ki je bil včasih znan kot [#skrivnostninovičlan](https://www.facebook.com/hashtag/skrivnostninovi%C4%8Dlan).
+Bivši alter-pop trio. Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica). Po bobnih tolče in izza njih kriči [@loudandwicked](https://twitter.com/loudandwicked), basira pa [@simonolenik](https://twitter.com/simonolenik). Na kitari, spremljevalnih vokalih in ogrlicah je od začetka leta 2017 tudi [@spretan](https://twitter.com/spretan), ki je bil včasih znan kot [#skrivnostninovičlan](https://www.facebook.com/hashtag/skrivnostninovi%C4%8Dlan).
 
 ### Družabna obrežja
 
@@ -13,7 +13,7 @@ Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https:/
 
 #### Bodoči špili
 
-Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsak pondeljek ali sredo nekje za Bežigradom. Če veste, kje smo, ste vljudno vabljeni - začnemo nekje ob 18h.
+Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsako ~ponedeljek~ sredo, nekje za Bežigradom. Če veste, kje smo, ste vljudno vabljeni - začnemo nekje ob 18h.
 
 * ??/2018 - **Neznana lokacija blizu Ljubljane** - _TBC_ - TBA
 

@@ -3,7 +3,7 @@ layout: default
 title: Hišniki - hishnband.si
 ---
 
-Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica). Po bobnih tolče in izza njih kriči [@loudandwicked](https://twitter.com/loudandwicked), basira pa [@simonolenik](https://twitter.com/simonolenik). Na kitari, bekvokalih in ogrlicah je od začetka leta 2017 tudi [@spretan](https://twitter.com/spretan), ki je bil včasih znan kot [#skrivnostninovičlan](https://www.facebook.com/hashtag/skrivnostninovi%C4%8Dlan).
+Hišniki smo bivši alter pop trio. Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica). Po bobnih tolče in izza njih kriči [@loudandwicked](https://twitter.com/loudandwicked), basira pa [@simonolenik](https://twitter.com/simonolenik). Na kitari, spremljevalnih vokalih in ogrlicah je od začetka leta 2017 tudi [@spretan](https://twitter.com/spretan), ki je bil včasih znan kot [#skrivnostninovičlan](https://www.facebook.com/hashtag/skrivnostninovi%C4%8Dlan).
 
 ### Družabna obrežja
 
@@ -13,9 +13,7 @@ Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https:/
 
 #### Bodoči špili
 
-Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsak pondeljek ali sredo v našem prijetno hladnem Zaklonišču. Če veste, kje smo, ste vljudno vabljeni - začnemo nekje ob 19h.
-
-
+Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsako ~ponedeljek~ sredo, nekje za Bežigradom. Če veste, kje smo, ste vljudno vabljeni - začnemo nekje ob 19h.
 
 #### Bivši špili
 
@@ -24,6 +22,9 @@ Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsak pondeljek
 * 02/11/2108 - **Trzin** - _ZIP Baza_ - dvojček s Pink Pankerji
 * 01/09/2018 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/Pivomanija/): festival kraft pivovarn)
 * 10/06/2018 - **Ljubljana** - _Neznana lokacija_ - Skrivnostni špil na pikniku
+* 02/09/2017 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/Pivomanija/): [festival kraft pivovarn](https://www.facebook.com/events/170518470284756/) - ([fotke na FB](https://www.facebook.com/pg/hishnband/photos/?tab=album&album_id=1816331661738061))
+* 10/06/2018 - **Ljubljana** - _Skrivni piknik prostor_ - Skrivnostni špil ob okroglem jubileju drage prijateljice
+>>>>>>> 5862ccb740a130d0d41340911c19d0d9fc9548f0
 * 02/09/2017 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/Pivomanija/): [festival kraft pivovarn](https://www.facebook.com/events/1263313043701889/)
 * 21/06/2017 - **Ljubljana** - _Pred Figovcem_ - [Praznik glasbe 2017](https://www.facebook.com/praznikglasbe/) kot _Jaga & Punk Tribute 2 Hish N' Band_ (Brko in #skrivnostninovičlan sta manjkala (dopust press), zato smo bili power trio, na basu je gostoval Jaga od [Pink Pankerjev](http://www.pinkpanker.si/))
 * 17/06/2017 - **Podzemelj** - _Kamp Podzemelj_ - Prvič s #skrivnostninovičlan ... in brez Pelija na vokalu. :/
@@ -46,7 +47,7 @@ Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsak pondeljek
 
 ### Biografija
 
-Hish N' Band smo alter pop power kvartet. Bili smo trio, ampak nismo več. V resnici bolj rock, ampak alter pop se sliši bolj alter. Iz repertoarja smo črtali predelave rock klasik in delamo na lastnih komadih. Trenutno jih imamo za dober EP, tako da smo godni za festivalske nastope do 45 minut. Smo pa tudi odlična predskupina.
+Hish N' Band smo alter pop power kvartet. Bili smo trio, ampak nismo več. V resnici bolj rock, ampak alter pop se sliši bolj alter. Iz repertoarja smo črtali predelave rock klasik in ustvarjamo na lastne komado. Trenutno jih imamo en ducat, za na ploščo, tako da smo godni za festivalske nastope do ene ure. Smo pa tudi odlična predskupina.
 
 ### Na dolgo in široko
 
@@ -77,6 +78,7 @@ Hish N' Band smo alter pop power kvartet. Bili smo trio, ampak nismo več. V res
 * **2015** - Z benda se poslovi tudi LouDk, na basu ga zamenja Simon.
 * **2016** - Avtorski komadi pridno nastajajo v našem Zaklonišču. Ko jih bo več kot priredb, pokukamo na plano. 
 * **2017** - S prihodom kitarista / producenta / bekvokalista / orgličarja Spretana se začnemo fokusirati samo na lastne kompozicije. Trenutno jih uigravamo 10, v nastajanju pa je še cca 10 novih.
+* **2018** - Ducat (+) avtorskih komadov pridno vadimo, mestoma koncertiramo in snemamo popevki za prvi singel: jeseni bosta luč sveta ugledala _Kdo je ukradel poletje?_ in _Al' ja, al' ne_!
 
 ### Bivši člani
 * Sam Sandberg (2011 - 2012, #wwwhbend)

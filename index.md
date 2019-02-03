@@ -15,10 +15,15 @@ Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https:/
 
 Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsak pondeljek ali sredo v našem prijetno hladnem Zaklonišču. Če veste, kje smo, ste vljudno vabljeni - začnemo nekje ob 19h.
 
-* ??/2017 - **Trzin** - _TBC_ - TBA
+
 
 #### Bivši špili
 
+* 31/01/2019 - **Ljubljana** - _Sonček Šiška_
+* 22/12/2018 - **Ljubljana** - _Studio Dansa_ - ŽUR BOžičkov
+* 02/11/2108 - **Trzin** - _ZIP Baza_ - dvojček s Pink Pankerji
+* 01/09/2018 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/Pivomanija/): festival kraft pivovarn)
+* 10/06/2018 - **Ljubljana** - _Neznana lokacija_ - Skrivnostni špil na pikniku
 * 02/09/2017 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/Pivomanija/): [festival kraft pivovarn](https://www.facebook.com/events/1263313043701889/)
 * 21/06/2017 - **Ljubljana** - _Pred Figovcem_ - [Praznik glasbe 2017](https://www.facebook.com/praznikglasbe/) kot _Jaga & Punk Tribute 2 Hish N' Band_ (Brko in #skrivnostninovičlan sta manjkala (dopust press), zato smo bili power trio, na basu je gostoval Jaga od [Pink Pankerjev](http://www.pinkpanker.si/))
 * 17/06/2017 - **Podzemelj** - _Kamp Podzemelj_ - Prvič s #skrivnostninovičlan ... in brez Pelija na vokalu. :/

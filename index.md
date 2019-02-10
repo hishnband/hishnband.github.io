@@ -3,7 +3,7 @@ layout: default
 title: Hišniki - hishnband.si
 ---
 
-Hišniki smo bivši alter pop trio. Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica). Po bobnih tolče in izza njih kriči [@loudandwicked](https://twitter.com/loudandwicked), basira pa [@simonolenik](https://twitter.com/simonolenik). Na kitari, spremljevalnih vokalih in ogrlicah je od začetka leta 2017 tudi [@spretan](https://twitter.com/spretan), ki je bil včasih znan kot [#skrivnostninovičlan](https://www.facebook.com/hashtag/skrivnostninovi%C4%8Dlan).
+Hišniki smo (alter) pop kvartet. Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica), po bobnih tolče in izza njih kriči [@loudandwicked](https://twitter.com/loudandwicked), basira pa [@simonolenik](https://twitter.com/simonolenik). Na kitari in spremljevalnih vokalih je od začetka leta 2017 [@spretan](https://twitter.com/spretan).
 
 ### Družabna obrežja
 
@@ -13,7 +13,9 @@ Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https:/
 
 #### Bodoči špili
 
-Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsako ~ponedeljek~ sredo, nekje za Bežigradom. Če veste, kje smo, ste vljudno vabljeni - začnemo nekje ob 19h.
+Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsako ~ponedeljek~ sredo, nekje v Črnučah. Če veste, kje smo, ste vljudno vabljeni - začnemo nekje ob 19h.
+
+* 18/05/2019 - **Ljubljana** - _Nepotrjena lokacija_ - Nepotrjen dogodek ob 21. obletnici
 
 #### Bivši špili
 
@@ -46,11 +48,11 @@ Tuki bomo objavili, kje nas boste videli v živo. Trenutno igramo vsako ~ponedel
 
 ### Biografija
 
-Hish N' Band smo alter pop power kvartet. Bili smo trio, ampak nismo več. V resnici bolj rock, ampak alter pop se sliši bolj alter. Iz repertoarja smo črtali predelave rock klasik in ustvarjamo na lastne komado. Trenutno jih imamo en ducat, za na ploščo, tako da smo godni za festivalske nastope do ene ure. Smo pa tudi odlična predskupina.
+Hish N' Band smo alter pop kvartet. Bili smo močan (power) trio, ampak nismo več. V resnici bolj rock, ampak alter pop se sliši bolj alter. Iz repertoarja smo črtali predelave rock klasik in ustvarjamo lastne komado. Trenutno jih imamo en ducat, za na ploščo, tako da smo godni za (festivalske) nastope okoli ene ure. Smo pa tudi odlična predskupina.
 
-### Na dolgo in široko
+#### Še en odstavek
 
-Če bi hoteli malce bolj senzacionalistični tekst, bi lahko napisali, da so Hish N’ Band v bistvu ene sorte ljubljansko-brkinska superskupina. Lahko bi rekli, da so kvartet, ki ima rad rokenrol s pridihom (alter) popa. Lahko bi se strinjali, da čeprav se imenujejo Hish N’ Band, (najbrž) nikoli ne bodo hišni bend. Lahko bi nakladali na dolgo in široko. Ampak ne bomo.
+Če bi hoteli malce bolj senzacionalistični tekst, bi lahko napisali, da smo Hish N’ Band v bistvu "ene sorte" ljubljansko-brkinska superskupina. Lahko bi rekli, da so kvartet, ki ima rad rokenrol s pridihom (alter) popa. Lahko bi se strinjali, da čeprav se imenujejo Hish N’ Band, (najbrž) nikoli ne bodo hišni bend. Lahko bi nakladali na dolgo in široko. Ampak ne bomo.
 
 ### Člani zasedbe
 
@@ -72,12 +74,13 @@ Hish N' Band smo alter pop power kvartet. Bili smo trio, ampak nismo več. V res
 ### Časovnica
 
 * **2013** - Na pogorišču [#wwwhbend](http://wwwhbend.tumblr.com/)-a nastane v **Hish N' Band**. Z drugimi besedami: preostali člani kvarteta postanemo [močan trio](https://en.wikipedia.org/wiki/Power_trio) in si nadanemo novo ime.
-* **2014** - Viniju, LouDku in Peliju se na vokalu pridruži Nina Krmavnar. Skupaj odigramo tri špile. In posnamemo en akustični cover [za na YouTube](https://www.youtube.com/watch?v=dWg7lQWMXnc).
-* **2015** - Hišniki smo spet power trio. Odigramo prvi in zadnji špil v letu, ki nakazuje pot proti vse bolj avtorski glasbi. Petje prevzame Peli.
-* **2015** - Z benda se poslovi tudi LouDk, na basu ga zamenja Simon.
+* **2014** - Na vokalu se nam pridruži **Nina Krmavnar**. Skupaj odigramo tri špile. In posnamemo en akustični cover [za na YouTube](https://www.youtube.com/watch?v=dWg7lQWMXnc).
+* **2015** - Hišniki smo spet power trio. Odigramo prvi in zadnji špil v letu, ki nakazuje pot proti vse bolj avtorski glasbi. Petje prevzame **Peli**.
+* **2015** - Z benda se poslovi tudi LouDk, na basu ga zamenja **Simon**.
 * **2016** - Avtorski komadi pridno nastajajo v našem Zaklonišču. Ko jih bo več kot priredb, pokukamo na plano. 
-* **2017** - S prihodom kitarista / producenta / bekvokalista / orgličarja Spretana se začnemo fokusirati samo na lastne kompozicije. Trenutno jih uigravamo 10, v nastajanju pa je še cca 10 novih.
-* **2018** - Ducat (+) avtorskih komadov pridno vadimo, mestoma koncertiramo in snemamo popevki za prvi singel: jeseni bosta luč sveta ugledala _Kdo je ukradel poletje?_ in _Al' ja, al' ne_!
+* **2017** - S prihodom kitarista / bekvokalista **Spretana** se začnemo fokusirati samo na lastne kompozicije. V nastajanju cca 10 novih.
+* **2018** - Ducat (+) avtorskih komadov pridno vadimo in odigramo največ koncertov na leto v zgodovini benda.
+* **2019** - Bomo letos posneli popevki zas prvi singel: _Kdo je ukradel poletje?_ in _Al' ja, al' ne_!
 
 ### Bivši člani
 * Sam Sandberg (2011 - 2012, #wwwhbend)

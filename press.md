@@ -10,4 +10,4 @@ Press informacije. Bodo. Enkrat.
 
 Vse kar imamo za povedati sedmi sili lahko le-ta najde na vstopni strani naše spletne strani.
 
-### Pojdi nazaj [na prvo stran](../)!
+### ... pojdi nazaj [na prvo stran](../)!

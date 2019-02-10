@@ -21,5 +21,3 @@ Ker premalo potujemo bomo veseli tudi kakšnega povabila na potovanje. Igramo la
 ## Imaš klub
 
 Vse lastnike klubov / promotorje / menedžerje vabimo, da nas kontaktirate. Dosegljivi smo preko [Twitterja](https://twitter.com/hishnband), [Instagrama](https://instagram.com/hishnband/), [Facebooka](https://www.facebook.com/hishnband), ali pa nam celo [pošljete e-pošto](mailto:hishnband@gmail.com)! Faksa nimamo, ker je za luno.
-
-Za orientacijo bodo pomagale [setliste na setlist.fm](http://www.setlist.fm/setlists/hish-n-band-5bc02fdc.html)

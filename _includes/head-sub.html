@@ -1,0 +1,25 @@
+<head>
+  {% include meta.html %}
+  <title>{% if page.title == "Home" %}{{ site.title }} - {{ site.tagline }}{% else %}{{ site.title }} - {{ page.title }}{% endif %}</title>
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
+</head>
+
+<body>
+
+<h3 class="url"><a href="{{ site.baseurl }}/">hishnband.si</a>{{ page.url }}...</h3>
+
+<nav role="navigation">
+  <p>
+  {% assign thisUrl = page.url | remove: 'index.html' %}
+  {% for item in site.data.nav offset:navOffset %}
+    {% if item.url == thisUrl %}
+      <span class="current">{{ item.text }}</span> | 
+    {% else %}
+      <span><a href="{{ item.url }}">{{ item.text }}</a></span> |
+    {% endif %}
+  {% endfor %}
+  </p>
+</nav>
+
+<hr />

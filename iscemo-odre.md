@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Iščemo (male in velike) odre
 permalink: /iscemo-odre/
 ---

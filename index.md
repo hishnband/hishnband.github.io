@@ -27,7 +27,7 @@ Seznam bivših špilov najdete [v rubriki koncerti](../koncerti/).
 
 ## Biografija
 
-Hish N' Band smo alter pop kvartet. Bili smo močan (power) trio, ampak nismo več. V resnici bolj rock, ampak alter pop se sliši bolj alter. V resnici se ne maramo predalčkati, zato smo iz repertoarja smo črtali predelave rock klasik in ustvarjamo lastne komade. Trenutno jih imamo en ducat, za na ploščo, tako da smo godni za (festivalske) nastope okoli ene ure. Smo pa tudi odlična predskupina.
+Hišniki smo (alter) pop kvartet. Bili smo močan (power) trio, ampak nismo več. V resnici bolj rock, ampak alter pop se sliši bolj alter. V resnici se ne maramo predalčkati, zato smo iz repertoarja smo črtali predelave rock klasik in ustvarjamo lastne komade. Trenutno jih imamo en ducat, za na ploščo, tako da smo godni za (festivalske) nastope okoli ene ure. Smo pa tudi odlična predskupina.
 
 ### Še en odstavek
 

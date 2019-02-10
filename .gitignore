@@ -6,3 +6,4 @@ _sites
 _site/.DS_Store
 
 _site/.DS_Store
+*.html

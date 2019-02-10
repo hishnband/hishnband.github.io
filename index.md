@@ -3,7 +3,7 @@ layout: default
 title: Hišniki - hishnband.si
 ---
 
-Hišniki smo (alter) pop kvartet. Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica), po bobnih tolče in izza njih kriči [@loudandwicked](https://twitter.com/loudandwicked), basira pa [@simonolenik](https://twitter.com/simonolenik). Na kitari in spremljevalnih vokalih je od začetka leta 2017 [@spretan](https://twitter.com/spretan).
+Hish N' Band ali po domače Hišniki. Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica), po bobnih tolče in izza njih kriči [@loudandwicked](https://twitter.com/loudandwicked), basira pa [@simonolenik](https://twitter.com/simonolenik). Na kitari in spremljevalnih vokalih je od začetka leta 2017 [@spretan](https://twitter.com/spretan).
 
 ## Družabna obrežja
 

@@ -1,5 +1,7 @@
 <head>
+  {% if site.google_analytics and jekyll.environment == 'production' %}
   {% include analytics.html %}
+  {% endif %}
   {% include meta.html %}
   <title>{% if page.title == "Home" %}{{ site.title }} - {{ site.tagline }}{% else %}{{ site.title }} - {{ page.title }}{% endif %}</title>
   <!-- Roboto Slab -->

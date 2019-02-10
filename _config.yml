@@ -28,6 +28,9 @@ author :
 #
 production_url : http://hishnband.si
 
+# Google Analytics
+google_analytics: UA-686717-19
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
@@ -75,10 +78,6 @@ JB :
   tags_path : /tags.html
   atom_path : /atom.xml
   rss_path : /rss.xml
-
-#GA
-  google_analytics: UA-686717-19
-
 
   # Settings for sharing helper. 
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.

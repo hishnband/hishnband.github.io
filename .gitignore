@@ -1,2 +1,7 @@
 _sites
 .DS_Store
+_site/md/index.html
+_site/2014/09/20/koncerti/ajdovscina.html
+_site/2015/06/26/koncerti/sticna.html
+_site/index.html
+*.html

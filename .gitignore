@@ -8,3 +8,5 @@ _site/.DS_Store
 _site/.DS_Store
 *.html
 *.html
+_site/index.html
+*.html

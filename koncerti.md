@@ -6,13 +6,13 @@ permalink: /koncerti/
 
 Seznam koncertov najdete spodaj, [na setlist.fm](http://www.setlist.fm/setlists/hish-n-band-5bc02fdc.html) najdete pa tudi naše set-liste.
 
-#### Bodoči špili
+## Bodoči špili
 
 Tukaj bomo objavili kje nas boste videli v živo. Trenutno igramo vsako sredo, nekje v Črnučah. Če veste, kje smo, ste vljudno vabljeni - začnemo nekje ob 19h.
 
 * 18/05/2019 - **Ljubljana** - _Nepotrjena lokacija_ - Nepotrjen dogodek ob 21. obletnici
 
-#### Bivši špili
+### Bivši špili
 
 * 31/01/2019 - **Ljubljana** - _Center Sonček Šiška_ - Družbeni FB eksperiment - [srečanje FB prijateljev v realnem svetu](https://www.facebook.com/events/2100726870016587/)
 * 22/12/2018 - **Ljubljana** - _Studio Dansa_ - ŽUR BOžičkov - [koncert za vse Božičke](https://www.facebook.com/events/2163944127201152/)

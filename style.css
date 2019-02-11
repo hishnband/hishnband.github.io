@@ -1,13 +1,13 @@
 body {
-	font-family: 'Roboto', Arial, sans-serif;
+	font-family: 'Roboto', Helvetica, Arial, sans-serif;
 	background: #fff;
-	color: rgba(0,0,0, 0.8);
+	color: rgba(0,0,0, 0.7);
 	font-size: 1.1em;
 	line-height: 1.4em;
 	max-width: 38em;
 	margin: auto; 
 	padding: 0 4%;
-	font-weight: 100;
+	font-weight: 300;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -17,8 +17,9 @@ h1, h2, h3, h4, h5, h6 {
 
 #home h1 {
     background: url(h1-logo.svg) no-repeat;
-	width: 300px;
-    height: 92px;
+	background-size: 300px 87px;
+	width: auto;
+    height: 87px;
     text-indent: -9999px;
     display: block;
     overflow: hidden;
@@ -60,7 +61,7 @@ a:focus {
 
 nav span {
 	text-transform: uppercase;
-	font-weight: 400;
+	font-weight: 500;
 	font-size: 1em;
 	line-height: 1.6em;
 }
@@ -68,6 +69,66 @@ nav span {
 nav span a {
 	padding: 3px 6px;
 }
+
+/*********************************************
+**********************************************
+************** @MEDIA QUERIES ****************
+**********************************************
+**********************************************/
+
+/* @media queries for:
+- medium mobile screens */
+
+
+@media (max-width: 480px) {
+ body {
+ 	font-size: 1.10em;
+	line-height: 1.4em;
+	font-weight: 300;
+	color: rgba(0,0,0, 0.8);
+	padding: 0 3%;
+ }
+
+ nav span {
+ 	font-size: 0.8em;
+ 	line-height: 1.4em;
+ }
+
+ #home h1 {
+	background-size: 250px 75px;
+	height: 75px;
+
+
+ h1 { font-size: 1.72em; }
+ h2 { font-size: 1.42em; }
+ h3 { font-size: 1.18em; }
+ h4 { font-size: 1.02em; }
+}
+
+/* @media queries for:
+- small mobile screens */
+
+@media (max-width: 360px) {
+ body {
+ 	font-size: 1.0em;
+	line-height: 1.20em;
+	padding: 0 2%;
+	}
+
+ nav span {
+ 	font-size: 0.78em;
+ 	line-height: 1.4em;
+ 	}
+
+ #home h1 {
+	background-size: 200px 50px;
+	height: 50px;
+ }
+
+
+
+
+
 .current {
     background: rgba(207, 40, 47, 1);
     color: #fff;

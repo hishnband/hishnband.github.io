@@ -27,7 +27,7 @@ Seznam bivših špilov najdete [v rubriki koncerti](../koncerti/).
 
 ## Biografija
 
-Hišniki smo (alter) pop kvartet. Bili smo močan (power) trio, ampak nismo več. V resnici bolj rock, ampak alter pop se sliši bolj alter. V resnici se ne maramo predalčkati, zato smo iz repertoarja smo črtali predelave rock klasik in ustvarjamo lastne komade. Trenutno jih imamo en ducat, za na ploščo, tako da smo godni za (festivalske) nastope okoli ene ure. Smo pa tudi odlična predskupina.
+Hišniki smo (alter) pop kvartet. Bili smo močan (power) trio, ampak nismo več. V resnici bolj rock, ampak alter pop se sliši bolj alter. V resnici se ne maramo predalčkati, zato smo iz repertoarja smo črtali predelave rock klasik in ustvarjamo lastne komade. Trenutno jih imamo en ducat, za na ploščo, tako da smo [godni za (festivalske) nastope](../iscemo-odre/) okoli ene ure. Smo pa tudi odlična predskupina.
 
 ### Še en odstavek
 
@@ -53,7 +53,7 @@ Hišniki smo (alter) pop kvartet. Bili smo močan (power) trio, ampak nismo več
 
 ## Časovnica
 
-* **2013** - Na pogorišču [#wwwhbend](http://wwwhbend.tumblr.com/)-a nastane v **Hish N' Band**. Z drugimi besedami: preostali člani kvarteta postanemo [močan trio](https://en.wikipedia.org/wiki/Power_trio) in si nadanemo novo ime.
+* **2013** - Na pogorišču [#wwwhbend](http://wwwhbend.tumblr.com/)-a nastane v **Hish N' Band**. Z drugimi besedami: Peli, Vini in LouDk postanemo [močan trio](https://en.wikipedia.org/wiki/Power_trio) in si nadanemo novo ime. Pojemo vsak kakšno priredbo, ker se nam zdi špon.
 * **2014** - Na vokalu se nam pridruži **Nina Krmavnar**. Skupaj odigramo tri špile. In posnamemo en akustični cover [za na YouTube](https://www.youtube.com/watch?v=dWg7lQWMXnc).
 * **2015** - Hišniki smo spet power trio. Odigramo prvi in zadnji špil v letu, ki nakazuje pot proti vse bolj avtorski glasbi. Petje prevzame **Peli**.
 * **2015** - Z benda se poslovi tudi LouDk, na basu ga zamenja **Simon**.

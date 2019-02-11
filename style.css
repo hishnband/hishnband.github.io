@@ -128,7 +128,6 @@ nav span a {
 
 
 
-
 .current {
     background: rgba(207, 40, 47, 1);
     color: #fff;
@@ -136,9 +135,6 @@ nav span a {
     box-shadow: inset 0 -2px 0 rgba(207, 40, 47, 0.2);
 }
 
-.strike {
-	text-decoration: line-through;
-}
 nav a:hover {
 	color: rgba(207, 40, 47, 1);
     background: rgba(207, 40, 47, 0.1);

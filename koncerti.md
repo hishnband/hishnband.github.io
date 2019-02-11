@@ -14,7 +14,7 @@ Tukaj bomo objavili kje nas boste videli v živo. Trenutno igramo vsako sredo, n
 
 #### Bivši špili
 
-* 31/01/2019 - **Ljubljana** - _Sonček Šiška_ - Družbeni FB eksperiment - [srečanje FB prijateljev v realnem svetu](https://www.facebook.com/events/2100726870016587/)
+* 31/01/2019 - **Ljubljana** - _Center Sonček Šiška_ - Družbeni FB eksperiment - [srečanje FB prijateljev v realnem svetu](https://www.facebook.com/events/2100726870016587/)
 * 22/12/2018 - **Ljubljana** - _Studio Dansa_ - ŽUR BOžičkov - [koncert za vse Božičke](https://www.facebook.com/events/2163944127201152/)
 * 02/11/2108 - **Trzin** - _ZIP Baza_ - dvojček [s Pink Pankerji](https://www.facebook.com/events/1535941966507270/)
 * 01/09/2018 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/Pivomanija/): festival kraft pivovarn)

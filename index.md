@@ -23,7 +23,7 @@ Seznam bivših špilov najdete [v rubriki koncerti](../koncerti/).
 ## Citat
 
 > *"If it ain't ringing (in your ears), you're not doin' it right."*<br>
--- Sam Sandberg o zvenenju v glavi
+-- [Sam Sandberg](https://twitter.com/LoisaidaSam) o zvenenju v glavi
 
 ## Biografija
 

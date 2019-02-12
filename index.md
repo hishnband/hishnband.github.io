@@ -50,7 +50,6 @@ Hišniki smo (alter) pop kvartet. Bili smo močan (power) trio, ampak nismo več
 	* kitara, bekvokal
 	* Reality Clauses, Babewatch, Hamo & Tribute 2 Love 
 
-
 ## Časovnica
 
 * **2013** - Na pogorišču [#wwwhbend](http://wwwhbend.tumblr.com/)-a nastane v **Hish N' Band**. Z drugimi besedami: Peli, Vini in LouDk postanemo [močan trio](https://en.wikipedia.org/wiki/Power_trio) in si nadanemo novo ime. Pojemo vsak kakšno priredbo, ker se nam zdi špon.
@@ -68,4 +67,4 @@ Hišniki smo (alter) pop kvartet. Bili smo močan (power) trio, ampak nismo več
 * Nina Krmavnar (2014)
 * David Panzalović - _LouDk_ (2010 - 2015)
 
-V resnici je seznam ljudi, ki so slišali [You're Out Of The Band](https://soundcloud.com/wwwhbend/youre-out-of-the-band) precej daljši, a sega še v čase [#wwwhbend](http://wwwhbend.tumblr.com/)-a. Koga vse smo v preteklosti vrgli z benda [si lahko ogledate tule](http://web.archive.org/web/20130513102148/http://wwwh.bend.si:80/o-bendu).
+V resnici je seznam ljudi, ki so slišali [You're Out Of The Band](https://soundcloud.com/wwwhbend/youre-out-of-the-band) precej daljši, a sega še v čase [#wwwhbend](http://web.archive.org/web/20110703075418/http://wwwh.bend.si/)-a. Koga vse smo v preteklosti vrgli z benda [si lahko ogledate tule](http://web.archive.org/web/20130513102148/http://wwwh.bend.si:80/o-bendu).

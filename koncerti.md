@@ -10,7 +10,7 @@ Seznam koncertov najdete spodaj, [na setlist.fm](http://www.setlist.fm/setlists/
 
 Tukaj bomo objavili kje nas boste videli v živo. Trenutno igramo vsako sredo, nekje v Črnučah. Če veste, kje smo, ste vljudno vabljeni - začnemo nekje ob 19h.
 
-* 18/05/2019 - **Ljubljana** - _Nepotrjena lokacija_ - Nepotrjen dogodek ob 21. obletnici
+* 31/08/2019 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/Pivomanija/): festival kraft pivovarn)
 
 ### Bivši špili
 

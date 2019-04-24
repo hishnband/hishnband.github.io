@@ -13,11 +13,11 @@ Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https:/
 
 ### Bodoči špili
 
-* 18/05/2019 - **Ljubljana** - _Nepotrjena lokacija_ - Nepotrjen dogodek ob 21. obletnici enega najstarejših spletnih časopisov.
+* 31/08/2019 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/Pivomanija/): festival kraft pivovarn)
 
 ### Bivši špili
 
-Seznam bivših špilov najdete [v rubriki koncerti](../koncerti/).
+* Seznam bivših špilov najdete [v rubriki koncerti](../koncerti/).
 
 
 ## Citat
@@ -32,6 +32,8 @@ Hišniki smo (alter) pop kvartet. Bili smo močan (power) trio, ampak nismo več
 ### Še en odstavek
 
 Če bi hoteli malce bolj senzacionalistični tekst, bi lahko napisali, da smo Hish N’ Band v bistvu "ene sorte" ljubljansko-brkinska superskupina. Lahko bi rekli, da so kvartet, ki ima rad rokenrol s pridihom (alter) popa. Lahko bi se strinjali, da čeprav se imenujejo Hish N’ Band, (najbrž) nikoli ne bodo hišni bend. Lahko bi nakladali na dolgo in široko. Ampak ne bomo.
+
+Zgornji odstavek v resnici nima nekega bistvenega smisla, v bistvu deluje kot nek "Lorem Ipsum" tekst, da izgleda biografija malce bolj epska. V resnici ni. Lahko se premaknete na naslednjo sekcijo, kjer bomo predstavili člane glasbeno inštrumentalne skupine.
 
 ## Člani zasedbe
 

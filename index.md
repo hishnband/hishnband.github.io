@@ -3,7 +3,7 @@ layout: default
 title: Hišniki - hishnband.si
 ---
 
-Hish N' Band ali po domače Hišniki. Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica), po bobnih tolče in izza njih kriči [@loudandwicked](https://twitter.com/loudandwicked), basira pa [@simonolenik](https://twitter.com/simonolenik). Na kitari in spremljevalnih vokalih je od začetka leta 2017 [@spretan](https://twitter.com/spretan).
+Hish N' Band ali po domače Hišniki. Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica), po bobnih tolče in izza njih kriči [@loudandwicked](https://twitter.com/loudandwicked), basira pa [@simonolenik](https://twitter.com/simonolenik), na glavni kitari in spremljevalnih vokalih pa je [@spretan](https://twitter.com/spretan).
 
 ## Družabna obrežja
 
@@ -13,7 +13,9 @@ Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https:/
 
 ### Bodoči špili
 
-* 31/08/2019 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/Pivomanija/): festival kraft pivovarn)
+* 21/06/2019 - **Ljubljana** - _Kavarna SEM_ - [Praznik glasbe 2019](https://www.facebook.com/events/2680524125309937/)
+* 24/08/2019 - **Svečina** - _Pruh festival_ 
+* 31/08/2019 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/Pivomanija/): festival kraft pivovarn
 
 ### Bivši špili
 

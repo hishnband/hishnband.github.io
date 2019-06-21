@@ -8,7 +8,7 @@ Hišniki vedno iščemo kakšen oder, kjer bi lahko igrali. V našem placu za va
 
 ## Idealna predskupina
 
-Na repertoarju imamo trenutno **12 lastnih skladb**, tako da smo lahko idealna predskupina. Repertoar raztegnemo na dobro šolsko uro, tako da z veseljem ogrevamo prazne dvorane, klube, travnike, pašnike in tudi kakšno jaso. Poleg tega naša virtuoznost zagotovo ne bo zasenčila headlinerjev, ker radi priznamo da smo ~~tretji~~ četrti najslabši bend na Slovenskem.
+Na repertoarju imamo trenutno **12 lastnih skladb**, tako da smo lahko idealna predskupina. Repertoar traja slabo uro, tako da z veseljem ogrevamo prazne dvorane, klube, travnike, pašnike in tudi kakšno jaso. Poleg tega naša virtuoznost zagotovo ne bo zasenčila headlinerjev, ker radi priznamo da smo ~~četrti~~ peti najslabši bend na Slovenskem.
 
 ### Popestritev zabave
 

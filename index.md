@@ -7,13 +7,12 @@ Hish N' Band ali po domače Hišniki. Po strunah udriha in glasilke napenja [@da
 
 ## Družabna obrežja
 
-Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https://instagram.com/hishnband/), jasno pa da smo tut [Fejstbukovi](https://www.facebook.com/hishnband). Aja, pa [Jutub kanal](https://www.youtube.com/channel/UCTIELIn2BgFNHFnyAlIdBiw) mamo tut. Pa na [setlist.fm](http://www.setlist.fm/setlists/hish-n-band-5bc02fdc.html) smo tudi. In seveda, nazadnje, a ne nazadnje, 'mamo svojo [madafakin'](http://motherfuckingwebsite.com/) spletno stran. ;)
+Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https://instagram.com/hishnband/), jasno pa da smo tut [Fejstbukovi](https://www.facebook.com/hishnband). Pa [Zvočnioblak](https://soundcloud.com/hishnband/) in [Jutub kanal](https://www.youtube.com/channel/UCTIELIn2BgFNHFnyAlIdBiw) mamo tut. Pa na [setlist.fm](http://www.setlist.fm/setlists/hish-n-band-5bc02fdc.html) smo tudi. In seveda, nazadnje, a ne nazadnje, 'mamo svojo [madafakin'](http://motherfuckingwebsite.com/) spletno stran. ;)
 
 ## Špili
 
 ### Bodoči špili
 
-* 21/06/2019 - **Ljubljana** - _Kavarna SEM_ - [Praznik glasbe 2019](https://www.facebook.com/events/2680524125309937/)
 * 24/08/2019 - **Svečina** - _Pruh festival_ 
 * 31/08/2019 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/Pivomanija/): festival kraft pivovarn
 

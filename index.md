@@ -3,7 +3,7 @@ layout: default
 title: Hišniki - hishnband.si
 ---
 
-Hish N' Band ali po domače Hišniki. Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica), po bobnih tolče in izza njih kriči [@loudandwicked](https://twitter.com/loudandwicked), basira pa [@simonolenik](https://twitter.com/simonolenik), na glavni kitari in spremljevalnih vokalih pa je [@spretan](https://twitter.com/spretan).
+Hish N' Band ali po domače Hišniki. Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica), po bobnih tolče in izza njih kriči [@loudandwicked](https://twitter.com/loudandwicked), basira [@stjf41](https://twitter.com/stjf41), na glavni kitari in spremljevalnih vokalih pa je [@spretan](https://twitter.com/spretan).
 
 ## Družabna obrežja
 

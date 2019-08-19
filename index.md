@@ -63,7 +63,7 @@ Zgornji odstavek v resnici nima nekega bistvenega smisla, v bistvu deluje kot ne
 * **2016** - Avtorski komadi pridno nastajajo v našem Zaklonišču. Ko jih bo več kot priredb, pokukamo na plano. 
 * **2017** - S prihodom kitarista / bekvokalista **Spretana** se začnemo fokusirati samo na lastne kompozicije. V nastajanju cca 10 novih.
 * **2018** - Ducat (+) avtorskih komadov pridno vadimo in odigramo največ koncertov na leto v zgodovini benda.
-* **2019** - Bomo letos posneli popevki zas prvi singel: _Kdo je ukradel poletje?_ in _Al' ja, al' ne_? To bomo videli, ko se leto prevesi v 2020. ;) 
+* **2019** - Bomo letos posneli popevki za naš prvi singel: _Kdo je ukradel poletje?_ in _Al' ja, al' ne_? To bomo videli, ko se leto prevesi v 2020. ;) 
 
 ## Bivši člani
 * Sam Sandberg (2011 - 2012, #wwwhbend)

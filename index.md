@@ -3,7 +3,7 @@ layout: default
 title: Hišniki - hishnband.si
 ---
 
-Hish N' Band ali po domače Hišniki. Po strunah udriha in glasilke napenja [@davorinpavlica](https://twitter.com/davorinpavlica), po bobnih tolče in izza njih kriči [@loudandwicked](https://twitter.com/loudandwicked), basira [@stjf41](https://twitter.com/stjf41), na glavni kitari in spremljevalnih vokalih pa je [@spretan](https://twitter.com/spretan).
+Hish N' Band ali po domače Hišniki. Po strunah udriha in glasilke napenja [@davorinpavlica 🎙](https://twitter.com/davorinpavlica), po bobnih tolče in (izza njih) kriči [@loudandwicked 🥁](https://twitter.com/loudandwicked), bas strun ne menja in nanje špila [@stjf41 𝄢](https://twitter.com/stjf41), na glavni kitari, dobrih poslovnih idejah in spremljevalnih vokalih pa je [@spretan 🎸](https://twitter.com/spretan).
 
 ## Družabna obrežja
 
@@ -11,11 +11,9 @@ Smo tudi na [Tviterjih](https://twitter.com/hishnband), na [Instagramih](https:/
 
 ## Špili
 
-### Bodoči špili
+Tukaj bomo objavili kje nas boste videli v živo.
 
-* 24/08/2019 - **Svečina** - _Pruh festival_ - Rock N Roll sindikalc z [Andropavza](https://www.facebook.com/andropavza/), [Madame Brumowski](http://www.facebook.com/madamebrumowski/) & [Viperstone](https://www.facebook.com/viperstoneband/)
-* 31/08/2019 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/events/369302293729424/): festival kraft pivovarn
-* 09/11/2019 - **Ljubljana** - _Prulček_ - dvojček z [Andropavza](https://www.facebook.com/andropavza/)
+{% include bodoci-spili.md %}
 
 ### Bivši špili
 

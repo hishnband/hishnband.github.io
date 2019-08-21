@@ -8,11 +8,9 @@ Seznam koncertov najdete spodaj, [na setlist.fm](http://www.setlist.fm/setlists/
 
 ## Bodoči špili
 
-Tukaj bomo objavili kje nas boste videli v živo. Trenutno igramo vsako sredo, nekje v Črnučah. Če veste, kje smo, ste vljudno vabljeni - začnemo nekje ob 19h.
+Tukaj bomo objavili kje nas boste videli v živo. Če nismo na odrih, igramo (skoraj) vsako sredo zvečer, nekje v Črnučah. Če veste, kje smo, ste vljudno vabljeni - začnemo nekje ob 19h.
 
-* 24/08/2019 - **Svečina** - _Pruh festival_ - Rock N Roll sindikalc z [Andropavza](https://www.facebook.com/andropavza/), [Madame Brumowski](http://www.facebook.com/madamebrumowski/) & [Viperstone](https://www.facebook.com/viperstoneband/)
-* 31/08/2019 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/events/369302293729424/): festival kraft pivovarn
-* 09/11/2019 - **Ljubljana** - _Prulček_ - dvojček z [Andropavza](https://www.facebook.com/andropavza/)
+{% include bodoci-spili.md %}
 
 ### Bivši špili
 

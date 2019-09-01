@@ -14,6 +14,7 @@ Tukaj bomo objavili kje nas boste videli v živo. Če nismo na odrih, igramo (sk
 
 ### Bivši špili
 
+* 31/08/2019 - **Ajdovščina** - _Bar Hiša mladih_ - [Pivomanija](https://www.facebook.com/events/369302293729424/): festival kraft pivovarn
 * 24/08/2019 - **Svečina** - _Pruh festival_ - Rock N Roll sindikalc z [Andropavza](https://www.facebook.com/andropavza/), [Madame Brumowski](http://www.facebook.com/madamebrumowski/) & [Viperstone](https://www.facebook.com/viperstoneband/)
 * 17/08/2019 - **Šentvid pri Stični** - _Fly-in piknik 2019_
 * 21/06/2019 - **Ljubljana** - _Kavarna SEM_ - [Praznik glasbe 2019](https://www.facebook.com/events/2680524125309937/)

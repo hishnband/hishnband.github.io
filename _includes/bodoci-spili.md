@@ -1,2 +1,2 @@
-* 06/12/2019 - **Ljubljana** - _Menza pri koritu_ - ogrevalna zasedba pred [Powerback](https://www.facebook.com/powerbackband/)
+* ??/??/20?? - **Ljubljana** - _Rog_ 📣 TBA - dvojček s [Powerback](https://www.facebook.com/powerbackband/)
 * ??/06/2020 - **Ljubljana** - 📣 TBA / TBC - _DramaKavarna_ - Klasični poletni dramski dvojček: Hisn N' Band x Andropavza

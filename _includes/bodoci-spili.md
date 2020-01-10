@@ -1,2 +1,2 @@
-* ??/??/20?? - **Ljubljana** - _Rog_ 📣 TBA - dvojček s [Powerback](https://www.facebook.com/powerbackband/)
-* ??/06/2020 - **Ljubljana** - 📣 TBA / TBC - _DramaKavarna_ - Klasični poletni dramski dvojček: Hisn N' Band x Andropavza
+* 01/02/2020 - **Ljubljana** - _DramaKavarna_ - (Ste že pozabili) novoletne zaobljube?
+* ??/??/2020 - **Ljubljana** - _Rog_ 📣 TBA - dvojček s [Powerback](https://www.facebook.com/powerbackband/)
